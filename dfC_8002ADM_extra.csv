@@ -1,0 +1,880 @@
+_idade_genero_hipertensao_"doenças_cardiacas"_Casado_"tipo_de_trabalho"_"tipo_de_residencia"_"media_nivel_de_glicose"_igc_"historico_de_fumante"_"acidente_vascular_encefalico"
+0_47,0_Feminino_0,0_0,0_Sim_Privado_Rural_75,43_36,4_Fumante_0,0
+1_29,0_Masculino_0,0_0,0_Sim_Privado_Urbano_193,81_46,8_Nunca Fumou_0,0
+2_73,0_Masculino_0,0_0,0_Sim_autonomo_Rural_231,43_23,0_Fumante_0,0
+3_74,0_Feminino_0,0_0,0_Não_autonomo_Urbano_204,77_40,8_Nunca Fumou_0,0
+4_10,0_Masculino_0,0_0,0_Não_Criança_Urbano_88,69_30,4_Desconhecido_0,0
+5_56,0_Feminino_0,0_0,0_Sim_Privado_Urbano_80,08_25,6_Nunca Fumou_0,0
+6_80,0_Feminino_1,0_0,0_Sim_autonomo_Rural_72,67_28,9_Nunca Fumou_1,0
+7_40,0_Feminino_0,0_0,0_Sim_Privado_Rural_119,52_34,6_Nunca Fumou_0,0
+8_13,0_Masculino_0,0_0,0_Não_Criança_Urbano_82,38_24,3_Desconhecido_0,0
+9_62,0_Feminino_0,0_0,0_Sim_publico_Urbano_67,07_24,5_Nunca Fumou_0,0
+10_63,0_Feminino_0,0_0,0_Sim_Privado_Rural_78,96_28,6_Nunca Fumou_0,0
+11_59,0_Feminino_0,0_0,0_Sim_autonomo_Urbano_65,82_29,4_Nunca Fumou_0,0
+12_75,0_Feminino_0,0_1,0_Sim_autonomo_Rural_243,53_27,0_Nunca Fumou_0,0
+13_37,0_Feminino_0,0_0,0_Sim_publico_Urbano_72,09_24,1_Fumante_0,0
+14_26,0_Feminino_0,0_0,0_Não_Privado_Rural_130,07_33,1_Nunca Fumou_0,0
+15_46,0_Masculino_0,0_0,0_Sim_Privado_Urbano_85,84_37,3_Nunca Fumou_0,0
+16_17,0_Masculino_0,0_0,0_Não_autonomo_Urbano_98,42_23,4_Desconhecido_0,0
+17_79,0_Feminino_1,0_0,0_Sim_Privado_Rural_64,44_26,9_Ex-Fumante_0,0
+18_54,0_Masculino_0,0_0,0_Sim_publico_Rural_216,19_30,3_Ex-Fumante_0,0
+19_48,0_Feminino_0,0_0,0_Sim_autonomo_Rural_71,93_41,7_Nunca Fumou_0,0
+20_72,0_Feminino_0,0_1,0_Sim_autonomo_Urbano_142,63_32,9_Fumante_0,0
+21_8,0_Feminino_0,0_0,0_Não_Criança_Rural_102,5_16,3_Desconhecido_0,0
+22_74,0_Feminino_0,0_0,0_Sim_Privado_Rural_66,32_34,4_Ex-Fumante_0,0
+23_59,0_Masculino_0,0_0,0_Sim_Privado_Urbano_100,54_35,8_Nunca Fumou_0,0
+24_4,0_Masculino_0,0_0,0_Não_Criança_Rural_105,76_18,4_Desconhecido_0,0
+25_29,0_Feminino_0,0_0,0_Não_autonomo_Rural_67,56_19,6_Desconhecido_0,0
+26_38,0_Feminino_0,0_0,0_Sim_autonomo_Urbano_147,48_40,5_Desconhecido_0,0
+27_41,0_Feminino_0,0_0,0_Sim_publico_Rural_146,08_29,9_Nunca Fumou_0,0
+28_78,0_Feminino_0,0_0,0_Não_publico_Rural_76,64_34,6_Nunca Fumou_0,0
+29_76,0_Feminino_0,0_1,0_Sim_Privado_Rural_86,09_28,1_Nunca Fumou_0,0
+30_2,0_Masculino_0,0_0,0_Não_Criança_Rural_109,1_20,0_Desconhecido_0,0
+31_71,0_Feminino_1,0_0,0_Sim_publico_Urbano_219,8_34,2_Ex-Fumante_0,0
+32_10,0_Feminino_0,0_0,0_Não_Criança_Rural_93,29_20,6_Desconhecido_0,0
+33_12,0_Feminino_0,0_0,0_Não_Criança_Rural_91,71_21,3_Desconhecido_0,0
+34_74,0_Feminino_0,0_0,0_Sim_autonomo_Rural_82,27_23,6_Ex-Fumante_0,0
+35_50,0_Feminino_1,0_1,0_Não_publico_Urbano_79,79_25,6_Fumante_0,0
+36_19,0_Feminino_0,0_0,0_Não_Privado_Urbano_110,7_38,5_Nunca Fumou_0,0
+37_5,0_Feminino_0,0_0,0_Não_Criança_Rural_64,45_21,7_Desconhecido_0,0
+38_4,0_Masculino_0,0_0,0_Não_Criança_Urbano_103,34_18,8_Desconhecido_0,0
+39_39,0_Feminino_0,0_0,0_Sim_Privado_Urbano_90,31_27,6_Fumante_0,0
+40_16,0_Feminino_0,0_0,0_Não_Privado_Urbano_63,63_20,0_Fumante_0,0
+41_57,0_Feminino_1,0_0,0_Sim_Privado_Rural_235,85_40,1_Nunca Fumou_0,0
+42_78,0_Feminino_0,0_0,0_Sim_Privado_Urbano_79,94_26,7_Nunca Fumou_0,0
+43_44,0_Masculino_1,0_0,0_Sim_autonomo_Rural_188,13_44,7_Ex-Fumante_0,0
+44_78,0_Feminino_0,0_0,0_Sim_autonomo_Urbano_84,21_33,7_Nunca Fumou_0,0
+45_65,0_Masculino_0,0_0,0_Sim_autonomo_Urbano_105,61_27,9_Desconhecido_0,0
+46_59,0_Masculino_0,0_0,0_Sim_Privado_Urbano_66,46_39,6_Ex-Fumante_0,0
+47_39,0_Feminino_0,0_0,0_Sim_Privado_Rural_83,51_26,4_Nunca Fumou_0,0
+48_48,0_Feminino_0,0_0,0_Sim_publico_Rural_255,17_38,1_Ex-Fumante_0,0
+49_73,0_Masculino_1,0_0,0_Sim_Privado_Urbano_88,34_27,5_Nunca Fumou_0,0
+50_70,0_Masculino_0,0_0,0_Sim_publico_Urbano_81,59_27,2_Nunca Fumou_0,0
+51_81,0_Feminino_1,0_0,0_Sim_Privado_Rural_164,77_34,5_Nunca Fumou_0,0
+52_22,0_Masculino_0,0_0,0_Sim_publico_Urbano_131,3_27,0_Nunca Fumou_0,0
+53_45,0_Feminino_0,0_0,0_Sim_Privado_Rural_89,21_21,6_Ex-Fumante_0,0
+54_37,0_Feminino_0,0_0,0_Sim_Privado_Rural_75,18_48,2_Ex-Fumante_0,0
+55_13,0_Masculino_0,0_0,0_Não_Criança_Urbano_92,65_31,7_Nunca Fumou_0,0
+56_11,0_Feminino_0,0_0,0_Não_Criança_Urbano_102,76_20,3_Desconhecido_0,0
+57_43,0_Feminino_0,0_0,0_Sim_Privado_Urbano_86,67_33,3_Nunca Fumou_0,0
+58_80,0_Masculino_0,0_1,0_Sim_publico_Rural_181,23_32,2_Ex-Fumante_0,0
+59_55,0_Masculino_0,0_0,0_Sim_Privado_Urbano_108,64_29,5_Nunca Fumou_0,0
+60_81,0_Feminino_0,0_1,0_Sim_autonomo_Rural_78,7_19,4_Desconhecido_1,0
+61_65,0_Masculino_0,0_0,0_Sim_Privado_Urbano_59,87_28,5_Fumante_0,0
+62_62,0_Masculino_0,0_0,0_Sim_Privado_Rural_60,39_26,9_Desconhecido_0,0
+63_27,0_Feminino_0,0_0,0_Sim_Privado_Rural_111,96_28,2_Nunca Fumou_0,0
+64_25,0_Feminino_0,0_0,0_Não_Privado_Urbano_125,98_21,0_Fumante_0,0
+65_58,0_Feminino_0,0_0,0_Sim_Privado_Urbano_65,45_32,1_Nunca Fumou_0,0
+66_46,0_Feminino_1,0_0,0_Sim_Privado_Rural_81,58_36,2_Nunca Fumou_0,0
+67_40,0_Feminino_0,0_0,0_Sim_Privado_Rural_72,76_24,0_Ex-Fumante_0,0
+68_57,0_Masculino_0,0_0,0_Sim_Privado_Rural_197,28_34,5_Ex-Fumante_1,0
+69_40,0_Masculino_0,0_0,0_Sim_Privado_Rural_80,25_30,3_Ex-Fumante_0,0
+70_27,0_Feminino_0,0_0,0_Sim_autonomo_Urbano_88,97_28,8_Nunca Fumou_0,0
+71_33,0_Feminino_0,0_0,0_Não_Privado_Urbano_83,16_20,2_Desconhecido_0,0
+72_61,0_Feminino_0,0_0,0_Sim_Privado_Rural_106,65_35,9_Ex-Fumante_0,0
+73_28,0_Masculino_0,0_0,0_Não_Privado_Urbano_86,24_30,0_Desconhecido_0,0
+74_63,0_Masculino_1,0_1,0_Sim_Privado_Urbano_150,45_44,5_Ex-Fumante_0,0
+75_22,0_Feminino_0,0_0,0_Não_Privado_Rural_107,52_41,6_Desconhecido_0,0
+76_40,0_Feminino_0,0_0,0_Sim_Privado_Rural_122,23_30,5_Desconhecido_0,0
+77_58,0_Feminino_0,0_0,0_Sim_publico_Rural_195,74_32,7_Desconhecido_0,0
+78_52,0_Masculino_0,0_1,0_Sim_Privado_Urbano_124,49_29,0_Nunca Fumou_0,0
+79_73,0_Masculino_0,0_0,0_Não_publico_Rural_79,59_31,4_Fumante_0,0
+80_15,0_Feminino_0,0_0,0_Não_Privado_Rural_79,2_22,4_Nunca Fumou_0,0
+81_78,0_Feminino_0,0_0,0_Sim_autonomo_Rural_67,9_35,3_Nunca Fumou_0,0
+82_5,0_Masculino_0,0_0,0_Não_Criança_Urbano_79,89_13,8_Desconhecido_0,0
+83_70,0_Feminino_1,0_0,0_Sim_autonomo_Rural_154,6_28,5_Ex-Fumante_0,0
+84_68,0_Masculino_1,0_0,0_Sim_Privado_Urbano_96,06_37,6_Nunca Fumou_0,0
+85_35,0_Feminino_0,0_0,0_Sim_publico_Rural_97,6_44,8_Fumante_0,0
+86_57,0_Feminino_0,0_0,0_Sim_Privado_Urbano_73_26,2_Nunca Fumou_0,0
+87_65,0_Masculino_1,0_0,0_Sim_Privado_Urbano_112,09_29,5_Nunca Fumou_0,0
+88_54,0_Feminino_0,0_0,0_Sim_Privado_Urbano_76,04_29,5_Fumante_0,0
+89_9,0_Feminino_0,0_0,0_Não_Criança_Rural_69,87_18,0_Desconhecido_0,0
+90_33,0_Feminino_0,0_0,0_Sim_Privado_Urbano_64,62_27,3_Nunca Fumou_0,0
+91_60,0_Feminino_0,0_0,0_Sim_Privado_Rural_84,54_23,4_Fumante_0,0
+92_32,0_Feminino_0,0_0,0_Sim_Privado_Urbano_80,8_44,8_Nunca Fumou_0,0
+93_72,0_Feminino_0,0_1,0_Não_autonomo_Rural_124,38_23,4_Ex-Fumante_0,0
+94_48,0_Feminino_0,0_0,0_Sim_autonomo_Rural_132,08_31,6_Fumante_0,0
+95_77,0_Masculino_0,0_0,0_Sim_autonomo_Rural_162,14_32,6_Ex-Fumante_1,0
+96_39,0_Feminino_0,0_0,0_Sim_autonomo_Urbano_82,85_22,9_Fumante_0,0
+97_42,0_Feminino_0,0_0,0_Sim_publico_Urbano_99,94_33,4_Nunca Fumou_0,0
+98_35,0_Masculino_0,0_0,0_Sim_Privado_Urbano_89,32_36,7_Desconhecido_0,0
+99_71,0_Feminino_0,0_0,0_Sim_Privado_Urbano_93,28_34,7_Nunca Fumou_0,0
+100_58,0_Feminino_0,0_0,0_Sim_autonomo_Urbano_66,71_51,7_Nunca Fumou_0,0
+101_7,0_Masculino_0,0_0,0_Não_Criança_Rural_88,39_19,7_Desconhecido_0,0
+102_66,0_Feminino_1,0_0,0_Sim_publico_Rural_116,55_31,1_Ex-Fumante_1,0
+103_36,0_Masculino_0,0_0,0_Não_Privado_Urbano_61,29_26,7_Nunca Fumou_0,0
+104_56,0_Masculino_0,0_0,0_Sim_Privado_Rural_97,5_36,3_Ex-Fumante_0,0
+105_29,0_Feminino_0,0_0,0_Não_publico_Rural_57,02_43,0_Ex-Fumante_0,0
+106_59,0_Masculino_0,0_0,0_Sim_Privado_Urbano_81,21_33,2_Fumante_0,0
+107_59,0_Masculino_0,0_0,0_Sim_Privado_Urbano_111,04_32,0_Ex-Fumante_1,0
+108_51,0_Masculino_0,0_0,0_Sim_Privado_Rural_122,5_20,6_Desconhecido_0,0
+109_49,0_Feminino_1,0_0,0_Sim_publico_Rural_98,9_35,5_Nunca Fumou_0,0
+110_20,0_Masculino_0,0_0,0_Não_Privado_Urbano_57,51_21,4_Desconhecido_0,0
+111_41,0_Feminino_0,0_0,0_Sim_autonomo_Urbano_98,85_24,6_Nunca Fumou_0,0
+112_63,0_Feminino_1,0_0,0_Sim_autonomo_Rural_227,1_26,9_Desconhecido_0,0
+113_49,0_Feminino_0,0_0,0_Sim_Privado_Urbano_85,33_25,5_Nunca Fumou_0,0
+114_57,0_Feminino_0,0_1,0_Sim_Privado_Urbano_216,58_31,0_Desconhecido_1,0
+115_68,0_Masculino_0,0_1,0_Sim_Privado_Urbano_217,74_25,5_Desconhecido_0,0
+116_20,0_Feminino_0,0_0,0_Não_publico_Rural_79,53__Nunca Fumou_0,0
+117_1,0_Feminino_0,0_0,0_Não_Criança_Urbano_199,83_24,5_Desconhecido_0,0
+118_74,0_Feminino_0,0_0,0_Sim_Privado_Urbano_203,01_25,4_Nunca Fumou_0,0
+119_47,0_Masculino_0,0_0,0_Sim_Privado_Rural_88,49_22,2_Fumante_0,0
+120_5,0_Masculino_0,0_0,0_Não_Criança_Urbano_101,61_33,1_Desconhecido_0,0
+121_56,0_Feminino_0,0_1,0_Sim_Privado_Rural_70,02_32,3_Nunca Fumou_0,0
+122_75,0_Feminino_1,0_0,0_Sim_publico_Urbano_88,83_41,7_Nunca Fumou_0,0
+123_40,0_Feminino_1,0_0,0_Sim_Privado_Urbano_124,48_38,5_Desconhecido_0,0
+124_18,0_Feminino_0,0_0,0_Não_Privado_Urbano_70,54_23,5_Desconhecido_0,0
+125_65,0_Feminino_0,0_0,0_Sim_Privado_Rural_205,78_41,7_Nunca Fumou_0,0
+126_57,0_Masculino_0,0_0,0_Sim_Privado_Urbano_108,53_19,4_Fumante_0,0
+127_77,0_Masculino_0,0_0,0_Sim_autonomo_Urbano_57,6_32,2_Desconhecido_0,0
+128_76,0_Feminino_1,0_0,0_Sim_autonomo_Urbano_209,58__Nunca Fumou_0,0
+129_65,0_Masculino_0,0_0,0_Sim_Privado_Rural_223,9_28,2_Ex-Fumante_0,0
+130_58,0_Masculino_0,0_0,0_Sim_publico_Rural_111,73_34,6_Nunca Fumou_0,0
+131_35,0_Masculino_0,0_0,0_Sim_Privado_Rural_95,89_34,2_Desconhecido_0,0
+132_79,0_Feminino_0,0_0,0_Sim_autonomo_Rural_65,58_26,1_Desconhecido_0,0
+133_43,0_Masculino_0,0_0,0_Sim_Privado_Urbano_87,82_38,8_Ex-Fumante_0,0
+134_34,0_Masculino_0,0_0,0_Sim_Privado_Urbano_108,12_22,2_Desconhecido_0,0
+135_32,0_Masculino_0,0_0,0_Não_publico_Rural_91,93_30,2_Nunca Fumou_0,0
+136_34,0_Masculino_0,0_0,0_Sim_Privado_Urbano_83,15_32,1_Desconhecido_0,0
+137_45,0_Feminino_0,0_0,0_Sim_Privado_Urbano_92,86_35,1_Ex-Fumante_0,0
+138_74,0_Masculino_0,0_0,0_Sim_autonomo_Rural_60,98__Nunca Fumou_1,0
+139_9,0_Masculino_0,0_0,0_Não_Criança_Rural_61,75_16,2_Desconhecido_0,0
+140_13,0_Feminino_0,0_0,0_Não_Criança_Urbano_131,51_41,7_Nunca Fumou_0,0
+141_62,0_Feminino_0,0_0,0_Sim_Privado_Rural_117,63_27,1_Ex-Fumante_0,0
+142_22,0_Masculino_0,0_0,0_Não_Privado_Rural_85,57_24,2_Ex-Fumante_0,0
+143_8,0_Feminino_0,0_0,0_Não_Criança_Urbano_67,33_16,7_Desconhecido_0,0
+144_60,0_Masculino_0,0_0,0_Sim_publico_Urbano_100,54_30,1_Nunca Fumou_0,0
+145_64,0_Masculino_0,0_0,0_Sim_autonomo_Rural_111,98__Ex-Fumante_1,0
+146_74,0_Feminino_0,0_0,0_Sim_Privado_Rural_231,61_34,6_Ex-Fumante_1,0
+147_76,0_Masculino_0,0_0,0_Sim_Privado_Urbano_58,65_25,6_Fumante_0,0
+148_47,0_Feminino_0,0_0,0_Sim_Privado_Urbano_131,43_24,3_Nunca Fumou_0,0
+149_76,0_Masculino_0,0_0,0_Sim_autonomo_Rural_221,8_44,7_Ex-Fumante_0,0
+150_62,0_Masculino_0,0_0,0_Sim_publico_Urbano_187,52_57,7_Nunca Fumou_0,0
+151_50,0_Masculino_0,0_0,0_Sim_Privado_Urbano_158,31_32,8_Ex-Fumante_0,0
+152_48,0_Feminino_0,0_0,0_Sim_Privado_Urbano_86,06_36,2_Nunca Fumou_0,0
+153_19,0_Feminino_0,0_0,0_Não_Privado_Urbano_87,72_21,7_Nunca Fumou_0,0
+154_40,0_Feminino_0,0_0,0_Sim_Privado_Rural_139,9_31,7_Fumante_0,0
+155_30,0_Feminino_0,0_0,0_Sim_Privado_Urbano_70,67_24,6_Fumante_0,0
+156_54,0_Feminino_1,0_0,0_Sim_Privado_Rural_98,74__Nunca Fumou_0,0
+157_54,0_Feminino_0,0_0,0_Sim_Privado_Urbano_76,05_42,0_Desconhecido_0,0
+158_71,0_Feminino_1,0_0,0_Sim_Privado_Urbano_194,62_31,6_Nunca Fumou_0,0
+159_54,0_Masculino_0,0_0,0_Sim_publico_Rural_87,85_31,1_Fumante_1,0
+160_54,0_Feminino_0,0_0,0_Sim_Privado_Rural_109,27_43,8_Ex-Fumante_0,0
+161_59,0_Feminino_0,0_0,0_Sim_autonomo_Urbano_90,06_28,9_Fumante_0,0
+162_69,0_Feminino_0,0_0,0_Não_Privado_Urbano_94,39_22,8_Nunca Fumou_1,0
+163_14,0_Masculino_0,0_0,0_Não_Privado_Rural_110,72__Nunca Fumou_0,0
+164_54,0_Masculino_0,0_0,0_Sim_Privado_Urbano_71,22_28,5_Nunca Fumou_1,0
+165_58,0_Masculino_0,0_0,0_Sim_Privado_Urbano_127,4_35,8_Ex-Fumante_0,0
+166_18,0_Feminino_0,0_0,0_Não_Privado_Rural_98,1_21,8_Nunca Fumou_0,0
+167_71,0_Masculino_0,0_0,0_Sim_Privado_Urbano_102,87_27,2_Ex-Fumante_1,0
+168_50,0_Feminino_0,0_0,0_Sim_Privado_Urbano_91,68_22,4_Nunca Fumou_0,0
+169_80,0_Feminino_0,0_0,0_Sim_Privado_Rural_102,9_26,7_Desconhecido_0,0
+170_73,0_Masculino_0,0_0,0_Sim_publico_Rural_76,45_28,7_Desconhecido_0,0
+171_36,0_Feminino_0,0_0,0_Sim_Privado_Urbano_84,7_34,0_Nunca Fumou_0,0
+172_28,0_Masculino_0,0_0,0_Não_Privado_Urbano_74,61_32,7_Desconhecido_0,0
+173_11,0_Feminino_0,0_0,0_Não_Criança_Urbano_76,74_19,1_Desconhecido_0,0
+174_59,0_Masculino_0,0_0,0_Sim_publico_Urbano_101,24_26,5_Nunca Fumou_0,0
+175_55,0_Masculino_1,0_0,0_Sim_Privado_Urbano_168,06_23,5_Fumante_0,0
+176_39,0_Feminino_0,0_0,0_Sim_autonomo_Urbano_87,79_40,0_Ex-Fumante_0,0
+177_10,0_Masculino_0,0_0,0_Não_Criança_Rural_59,49_18,3_Desconhecido_0,0
+178_32,0_Feminino_0,0_0,0_Sim_Privado_Rural_108,8_24,0_Desconhecido_0,0
+179_14,0_Masculino_0,0_0,0_Não_Privado_Urbano_72,88_26,5_Nunca Fumou_0,0
+180_77,0_Feminino_0,0_0,0_Sim_Privado_Rural_80,85_19,4_Desconhecido_0,0
+181_13,0_Masculino_0,0_0,0_Não_Criança_Urbano_114,84_18,3_Desconhecido_0,0
+182_13,0_Feminino_0,0_0,0_Não_Criança_Rural_99,49_23,4_Desconhecido_0,0
+183_37,0_Feminino_0,0_0,0_Não_autonomo_Urbano_90,71_45,8_Desconhecido_0,0
+184_12,0_Masculino_0,0_0,0_Não_Criança_Urbano_86,86_25,4_Nunca Fumou_0,0
+185_52,0_Feminino_0,0_0,0_Sim_Privado_Rural_118,46_61,6_Fumante_0,0
+186_4,0_Masculino_0,0_0,0_Não_Criança_Rural_89,11_20,1_Desconhecido_0,0
+187_13,0_Feminino_0,0_0,0_Não_Criança_Rural_138,44_34,8_Desconhecido_0,0
+188_4,0_Masculino_0,0_0,0_Não_Criança_Urbano_132,41_16,3_Desconhecido_0,0
+189_66,0_Masculino_0,0_0,0_Sim_Privado_Rural_76,46_21,2_Ex-Fumante_1,0
+190_63,0_Feminino_0,0_0,0_Sim_autonomo_Urbano_65,71_29,2_Fumante_0,0
+191_60,0_Masculino_0,0_0,0_Sim_Privado_Rural_62,6_30,4_Desconhecido_0,0
+192_79,0_Feminino_0,0_0,0_Sim_Privado_Urbano_65,59_28,1_Nunca Fumou_0,0
+193_63,0_Feminino_0,0_0,0_Sim_publico_Urbano_123,87_34,9_Desconhecido_0,0
+194_74,0_Feminino_0,0_0,0_Sim_Privado_Rural_68,34_39,3_Desconhecido_0,0
+195_42,0_Masculino_0,0_0,0_Sim_Privado_Rural_83,41_25,4_Desconhecido_1,0
+196_47,0_Feminino_0,0_0,0_Sim_Privado_Urbano_103,26_25,4_Desconhecido_0,0
+197_56,0_Masculino_1,0_0,0_Sim_publico_Urbano_72,79_23,8_Fumante_0,0
+198_50,0_Feminino_0,0_0,0_Sim_Privado_Rural_217,39_50,6_Desconhecido_0,0
+199_47,0_Masculino_0,0_0,0_Sim_publico_Urbano_73,48_34,9_Fumante_0,0
+200_28,0_Feminino_0,0_0,0_Não_Privado_Rural_96,86_29,0_Desconhecido_0,0
+201_25,0_Feminino_0,0_0,0_Sim_Privado_Rural_81,21_37,9_Nunca Fumou_0,0
+202_52,0_Feminino_0,0_0,0_Sim_Privado_Urbano_126,68_28,1_Nunca Fumou_0,0
+203_7,0_Feminino_0,0_0,0_Não_Criança_Urbano_61,42_20,8_Desconhecido_0,0
+204_27,0_Feminino_0,0_0,0_Sim_Privado_Urbano_94,19_27,4_Ex-Fumante_0,0
+205_41,0_Masculino_0,0_0,0_Sim_Privado_Rural_101,79_26,7_Desconhecido_0,0
+206_53,0_Feminino_1,0_0,0_Sim_Privado_Urbano_87,03_55,2_Ex-Fumante_0,0
+207_12,0_Feminino_0,0_0,0_Não_Criança_Urbano_63,98_21,2_Ex-Fumante_0,0
+208_76,0_Masculino_0,0_0,0_Sim_autonomo_Rural_117,63_26,2_Nunca Fumou_0,0
+209_4,0_Feminino_0,0_0,0_Não_Criança_Urbano_107,25_12,0_Desconhecido_0,0
+210_9,0_Masculino_0,0_0,0_Não_Criança_Urbano_64,2_18,5_Desconhecido_0,0
+211_46,0_Masculino_1,0_0,0_Sim_Privado_Urbano_65,5_30,7_Nunca Fumou_0,0
+212_55,0_Feminino_0,0_0,0_Sim_Privado_Urbano_55,34_27,1_Fumante_0,0
+213_75,0_Feminino_0,0_1,0_Sim_Privado_Urbano_206,15_25,4_Nunca Fumou_0,0
+214_77,0_Masculino_1,0_1,0_Sim_autonomo_Urbano_80,92_28,9_Fumante_0,0
+215_15,0_Feminino_0,0_0,0_Não_Criança_Rural_77,57_18,3_Desconhecido_0,0
+216_78,0_Masculino_1,0_0,0_Sim_autonomo_Rural_56,11_25,5_Ex-Fumante_1,0
+217_16,0_Feminino_0,0_0,0_Não_Privado_Rural_95,38_34,3_Ex-Fumante_0,0
+218_51,0_Feminino_0,0_0,0_Sim_autonomo_Urbano_111,15_34,1_Fumante_0,0
+219_19,0_Masculino_0,0_0,0_Não_Privado_Urbano_80,54_18,5_Fumante_0,0
+220_22,0_Masculino_0,0_0,0_Não_Privado_Urbano_122,1_23,6_Fumante_0,0
+221_82,0_Feminino_1,0_1,0_Não_Privado_Rural_84,03_26,5_Ex-Fumante_1,0
+222_61,0_Feminino_0,0_0,0_Sim_Privado_Urbano_87,52_23,7_Desconhecido_0,0
+223_23,0_Feminino_0,0_0,0_Não_Privado_Rural_90,84_31,6_Nunca Fumou_0,0
+224_60,0_Feminino_0,0_0,0_Sim_Privado_Urbano_185,31_39,3_Nunca Fumou_0,0
+225_41,0_Feminino_0,0_0,0_Sim_Privado_Rural_91,04_24,5_Nunca Fumou_0,0
+226_33,0_Feminino_0,0_0,0_Sim_Privado_Urbano_121,04_31,4_Desconhecido_0,0
+227_59,0_Feminino_0,0_0,0_Sim_Privado_Rural_224,71_42,9_Nunca Fumou_0,0
+228_53,0_Masculino_0,0_0,0_Sim_autonomo_Urbano_76,36_29,8_Desconhecido_0,0
+229_21,0_Masculino_0,0_0,0_Não_Privado_Urbano_82,71_20,1_Ex-Fumante_0,0
+230_44,0_Feminino_0,0_0,0_Sim_publico_Urbano_67,06_35,5_Nunca Fumou_0,0
+231_47,0_Feminino_0,0_0,0_Sim_Privado_Rural_195,04_45,5_Nunca Fumou_0,0
+232_54,0_Feminino_0,0_0,0_Sim_Privado_Rural_111,41_31,1_Nunca Fumou_0,0
+233_78,0_Masculino_1,0_1,0_Não_autonomo_Urbano_92,9_30,4_Fumante_0,0
+234_14,0_Feminino_0,0_0,0_Não_Privado_Urbano_69,74_24,2_Ex-Fumante_0,0
+235_46,0_Masculino_1,0_0,0_Sim_autonomo_Urbano_101,93_34,0_Desconhecido_0,0
+236_14,0_Masculino_0,0_0,0_Não_Criança_Urbano_99,87_25,2_Desconhecido_0,0
+237_61,0_Masculino_1,0_1,0_Não_Privado_Rural_148,24_32,2_Ex-Fumante_0,0
+238_58,0_Masculino_0,0_0,0_Sim_Privado_Urbano_71,2__Desconhecido_1,0
+239_15,0_Masculino_0,0_0,0_Não_Criança_Urbano_95,86_18,1_Desconhecido_0,0
+240_40,0_Feminino_0,0_0,0_Sim_Privado_Urbano_75,87_30,3_Nunca Fumou_0,0
+241_22,0_Masculino_0,0_0,0_Não_Privado_Rural_58,96_25,3_Desconhecido_0,0
+242_59,0_Feminino_0,0_0,0_Sim_Privado_Urbano_109,82_23,7_Nunca Fumou_0,0
+243_39,0_Feminino_0,0_0,0_Não_publico_Rural_87,33_34,3_Nunca Fumou_0,0
+244_58,0_Feminino_0,0_0,0_Sim_Privado_Urbano_149,75_27,0_Desconhecido_0,0
+245_62,0_Masculino_0,0_0,0_Sim_publico_Urbano_91,68_26,5_Desconhecido_0,0
+246_15,0_Feminino_0,0_0,0_Não_Criança_Urbano_121,39_27,0_Desconhecido_0,0
+247_10,0_Masculino_0,0_0,0_Não_Criança_Rural_77,51_21,9_Desconhecido_0,0
+248_82,0_Masculino_0,0_1,0_Sim_Privado_Urbano_57,56_27,5_Nunca Fumou_0,0
+249_80,0_Masculino_1,0_0,0_Sim_autonomo_Rural_232,12_28,8_Nunca Fumou_0,0
+250_63,0_Feminino_0,0_0,0_Sim_Privado_Urbano_90,9__Ex-Fumante_1,0
+251_51,0_Feminino_0,0_0,0_Sim_autonomo_Rural_76,35_33,5_Ex-Fumante_0,0
+252_21,0_Feminino_0,0_0,0_Não_Privado_Urbano_134,45_29,1_Nunca Fumou_0,0
+253_38,0_Masculino_0,0_0,0_Sim_publico_Rural_237,74_21,2_Nunca Fumou_0,0
+254_79,0_Feminino_0,0_0,0_Sim_Privado_Rural_208,05__Fumante_0,0
+255_74,0_Feminino_0,0_0,0_Sim_Privado_Rural_83,58_18,2_Nunca Fumou_0,0
+256_20,0_Feminino_0,0_0,0_Não_Privado_Rural_77,29_28,4_Nunca Fumou_0,0
+257_73,0_Feminino_0,0_0,0_Sim_Privado_Rural_81,78_28,8_Nunca Fumou_0,0
+258_79,0_Feminino_0,0_0,0_Sim_publico_Urbano_63,57_32,4_Nunca Fumou_0,0
+259_4,0_Masculino_0,0_0,0_Não_Criança_Urbano_98,56_17,5_Desconhecido_0,0
+260_17,0_Masculino_0,0_0,0_Não_Privado_Rural_81,77_44,7_Nunca Fumou_0,0
+261_78,0_Masculino_0,0_0,0_Sim_Privado_Urbano_74,7_28,8_Ex-Fumante_0,0
+262_38,0_Feminino_0,0_0,0_Sim_Privado_Urbano_162,3_23,6_Nunca Fumou_0,0
+263_33,0_Masculino_0,0_0,0_Sim_Privado_Rural_219,97_39,6_Nunca Fumou_0,0
+264_50,0_Feminino_0,0_0,0_Sim_autonomo_Rural_61,54_28,4_Desconhecido_0,0
+265_28,0_Feminino_0,0_0,0_Não_Privado_Urbano_73,2_26,5_Fumante_0,0
+266_53,0_Masculino_0,0_0,0_Sim_autonomo_Urbano_103,37_26,9_Ex-Fumante_0,0
+267_41,0_Feminino_0,0_0,0_Sim_Privado_Urbano_65,67_26,7_Fumante_0,0
+268_79,0_Feminino_1,0_0,0_Sim_autonomo_Rural_76,64_19,5_Nunca Fumou_0,0
+269_38,0_Feminino_0,0_0,0_Sim_autonomo_Urbano_98,37_27,2_Nunca Fumou_0,0
+270_59,0_Feminino_0,0_0,0_Sim_Privado_Urbano_89,96_28,1_Desconhecido_0,0
+271_34,0_Masculino_0,0_0,0_Não_Privado_Rural_125,29_33,9_Nunca Fumou_0,0
+272_67,0_Masculino_0,0_0,0_Sim_publico_Rural_59_29,5_Desconhecido_0,0
+273_45,0_Feminino_0,0_0,0_Sim_Privado_Rural_80,93_23,1_Nunca Fumou_0,0
+274_8,0_Feminino_0,0_0,0_Não_Criança_Urbano_106,51_12,3_Desconhecido_0,0
+275_71,0_Masculino_0,0_0,0_Sim_publico_Rural_99,76_33,4_Ex-Fumante_0,0
+276_21,0_Masculino_0,0_0,0_Não_Privado_Rural_92,87_28,4_Fumante_0,0
+277_14,0_Feminino_0,0_0,0_Não_Criança_Rural_129,53_21,3_Nunca Fumou_0,0
+278_28,0_Feminino_0,0_0,0_Sim_Privado_Rural_87,01_39,9_Nunca Fumou_0,0
+279_80,0_Masculino_0,0_1,0_Sim_autonomo_Urbano_252,72_30,5_Ex-Fumante_1,0
+280_45,0_Feminino_0,0_0,0_Sim_Privado_Rural_106,95_33,4_Desconhecido_0,0
+281_10,0_Masculino_0,0_0,0_Não_Criança_Rural_68,94_18,0_Desconhecido_0,0
+282_24,0_Masculino_0,0_0,0_Não_Privado_Rural_91,21_28,1_Ex-Fumante_0,0
+283_6,0_Feminino_0,0_0,0_Não_Criança_Rural_66,33_18,6_Desconhecido_0,0
+284_24,0_Masculino_0,0_0,0_Não_Privado_Rural_93,76_24,0_Ex-Fumante_0,0
+285_62,0_Masculino_0,0_0,0_Sim_autonomo_Urbano_85,12_36,3_Ex-Fumante_0,0
+286_57,0_Masculino_0,0_0,0_Sim_Privado_Urbano_107,49_29,5_Nunca Fumou_0,0
+287_31,0_Feminino_0,0_0,0_Sim_Privado_Urbano_92,16_22,8_Nunca Fumou_0,0
+288_50,0_Masculino_0,0_0,0_Sim_autonomo_Urbano_101,85_25,1_Fumante_0,0
+289_47,0_Masculino_0,0_0,0_Sim_Privado_Rural_86,37_39,2_Fumante_0,0
+290_8,0_Masculino_0,0_0,0_Não_Criança_Urbano_61,07_19,1_Desconhecido_0,0
+291_57,0_Masculino_0,0_0,0_Sim_Privado_Rural_84,96_36,7_Desconhecido_1,0
+292_77,0_Feminino_0,0_0,0_Sim_autonomo_Rural_104,23_23,8_Fumante_0,0
+293_61,0_Feminino_1,0_1,0_Sim_Privado_Urbano_237,58__Ex-Fumante_0,0
+294_43,0_Feminino_0,0_0,0_Sim_Privado_Urbano_100,88_47,6_Fumante_0,0
+295_16,0_Masculino_0,0_0,0_Não_Privado_Rural_125,89_21,3_Nunca Fumou_0,0
+296_59,0_Feminino_0,0_0,0_Sim_Privado_Rural_134,24_28,8_Desconhecido_0,0
+297_75,0_Feminino_0,0_0,0_Sim_autonomo_Urbano_108,62_25,1_Desconhecido_0,0
+298_41,0_Masculino_0,0_0,0_Não_Privado_Urbano_70,55_44,2_Desconhecido_0,0
+299_54,0_Masculino_0,0_0,0_Sim_Privado_Rural_57,56_27,5_Nunca Fumou_0,0
+300_35,0_Masculino_0,0_0,0_Sim_Privado_Rural_92,82_28,6_Desconhecido_0,0
+301_53,0_Feminino_0,0_0,0_Não_publico_Urbano_101,81_29,4_Fumante_0,0
+302_62,0_Feminino_0,0_0,0_Sim_autonomo_Urbano_86,4_32,6_Fumante_0,0
+303_36,0_Masculino_0,0_0,0_Sim_Privado_Urbano_89,33_30,7_Nunca Fumou_0,0
+304_14,0_Masculino_0,0_0,0_Não_Privado_Rural_61,04_17,6_Desconhecido_0,0
+305_39,0_Feminino_1,0_0,0_Sim_Privado_Rural_58,09_39,2_Fumante_1,0
+306_33,0_Masculino_0,0_0,0_Sim_Privado_Rural_153,34_31,5_Nunca Fumou_0,0
+307_50,0_Feminino_0,0_0,0_Não_Privado_Urbano_85,77_21,1_Nunca Fumou_0,0
+308_35,0_Masculino_0,0_0,0_Sim_Privado_Rural_102,34_34,3_Nunca Fumou_0,0
+309_52,0_Feminino_0,0_1,0_Sim_Privado_Urbano_72,79_54,7_Nunca Fumou_0,0
+310_28,0_Feminino_0,0_0,0_Não_Privado_Urbano_76,81_28,3_Fumante_0,0
+311_60,0_Masculino_1,0_1,0_Sim_Privado_Urbano_201,01_28,0_Nunca Fumou_0,0
+312_72,0_Feminino_1,0_0,0_Sim_autonomo_Rural_112,12_30,5_Nunca Fumou_0,0
+313_49,0_Feminino_0,0_0,0_Sim_Privado_Rural_67,27__Ex-Fumante_0,0
+314_31,0_Feminino_0,0_0,0_Sim_Privado_Urbano_60,06_25,5_Fumante_0,0
+315_51,0_Masculino_0,0_0,0_Não_autonomo_Rural_219,17_29,8_Nunca Fumou_0,0
+316_76,0_Masculino_0,0_0,0_Sim_Privado_Rural_110,99_29,8_Ex-Fumante_0,0
+317_16,0_Masculino_0,0_0,0_Não_Privado_Rural_94,96_21,5_Nunca Fumou_0,0
+318_32,0_Masculino_0,0_0,0_Sim_Privado_Rural_102,13_32,3_Nunca Fumou_0,0
+319_81,0_Masculino_0,0_0,0_Sim_Privado_Urbano_213,22_26,1_Desconhecido_1,0
+320_68,0_Feminino_0,0_0,0_Sim_Privado_Rural_211,06_39,3_Desconhecido_1,0
+321_45,0_Masculino_1,0_0,0_Sim_autonomo_Rural_239,19_52,5_Desconhecido_0,0
+322_52,0_Feminino_1,0_0,0_Sim_autonomo_Urbano_233,29_48,9_Nunca Fumou_1,0
+323_78,0_Feminino_0,0_0,0_Sim_autonomo_Rural_60,67__Ex-Fumante_1,0
+324_69,0_Feminino_0,0_1,0_Não_Privado_Urbano_193,45_34,5_Nunca Fumou_0,0
+325_19,0_Masculino_0,0_0,0_Não_Privado_Rural_106,7_24,0_Nunca Fumou_0,0
+326_39,0_Feminino_0,0_0,0_Não_Privado_Rural_85,59_33,2_Desconhecido_0,0
+327_63,0_Masculino_0,0_0,0_Sim_Privado_Urbano_105,52_37,9_Ex-Fumante_0,0
+328_80,0_Masculino_1,0_1,0_Sim_autonomo_Urbano_84,31_30,3_Fumante_0,0
+329_18,0_Feminino_0,0_0,0_Não_Privado_Rural_107,82_26,0_Nunca Fumou_0,0
+330_20,0_Masculino_0,0_0,0_Não_Privado_Rural_87,08_27,1_Nunca Fumou_0,0
+331_50,0_Feminino_0,0_0,0_Não_Privado_Urbano_112,44_31,5_Desconhecido_0,0
+332_11,0_Masculino_0,0_0,0_Não_Criança_Urbano_92,17_19,5_Desconhecido_0,0
+333_60,0_Feminino_0,0_0,0_Sim_Privado_Rural_230,78_40,2_Nunca Fumou_0,0
+334_72,0_Feminino_0,0_0,0_Sim_autonomo_Rural_57,28_23,9_Nunca Fumou_0,0
+335_57,0_Feminino_0,0_0,0_Sim_autonomo_Urbano_142,31_35,2_Fumante_0,0
+336_42,0_Feminino_0,0_1,0_Sim_publico_Urbano_226,93_34,2_Fumante_0,0
+337_5,0_Masculino_0,0_0,0_Não_Criança_Rural_85,84_16,4_Desconhecido_0,0
+338_18,0_Feminino_0,0_0,0_Não_Nunca trabalhou_Urbano_97,65_21,5_Desconhecido_0,0
+339_25,0_Feminino_0,0_0,0_Não_Privado_Urbano_76,44_48,3_Desconhecido_0,0
+340_20,0_Feminino_0,0_0,0_Não_Privado_Urbano_95,5_31,3_Desconhecido_0,0
+341_16,0_Masculino_0,0_0,0_Não_Privado_Rural_111,93_32,2_Nunca Fumou_0,0
+342_14,0_Feminino_0,0_0,0_Não_Criança_Rural_72,36_20,5_Desconhecido_0,0
+343_29,0_Feminino_0,0_0,0_Sim_Privado_Urbano_63,69_28,1_Fumante_0,0
+344_19,0_Feminino_0,0_0,0_Não_Privado_Rural_75,08_21,7_Desconhecido_0,0
+345_27,0_Feminino_0,0_0,0_Não_Privado_Urbano_126,09_25,1_Desconhecido_0,0
+346_59,0_Masculino_0,0_0,0_Sim_Privado_Rural_64,51_31,5_Nunca Fumou_0,0
+347_52,0_Feminino_0,0_0,0_Sim_Privado_Rural_200,46_25,0_Desconhecido_0,0
+348_38,0_Masculino_0,0_0,0_Não_Privado_Rural_112,39_26,3_Desconhecido_0,0
+349_66,0_Feminino_0,0_0,0_Sim_autonomo_Urbano_101,45__Desconhecido_1,0
+350_11,0_Masculino_0,0_0,0_Não_Criança_Rural_73,28_17,2_Nunca Fumou_0,0
+351_61,0_Masculino_0,0_0,0_Sim_Privado_Rural_55,26_33,2_Desconhecido_0,0
+352_21,0_Masculino_0,0_0,0_Não_autonomo_Urbano_92,87_37,0_Nunca Fumou_0,0
+353_59,0_Feminino_0,0_0,0_Sim_autonomo_Urbano_88,1_30,7_Nunca Fumou_0,0
+354_30,0_Feminino_0,0_0,0_Não_Privado_Urbano_69,67_35,8_Ex-Fumante_0,0
+355_12,0_Feminino_0,0_0,0_Não_Criança_Rural_75,22_20,9_Desconhecido_0,0
+356_34,0_Feminino_0,0_0,0_Sim_Privado_Rural_70,53_39,2_Nunca Fumou_0,0
+357_37,0_Feminino_0,0_0,0_Sim_Privado_Urbano_106,35_29,7_Nunca Fumou_0,0
+358_52,0_Masculino_0,0_0,0_Sim_publico_Urbano_67,5_27,7_Fumante_0,0
+359_8,0_Feminino_0,0_0,0_Não_Criança_Urbano_104,03_18,4_Desconhecido_0,0
+360_76,0_Masculino_0,0_1,0_Sim_Privado_Rural_213,8_22,0_Nunca Fumou_0,0
+361_16,0_Feminino_0,0_0,0_Não_Privado_Urbano_58,02_22,5_Desconhecido_0,0
+362_37,0_Feminino_0,0_0,0_Não_publico_Rural_77,37_21,4_Nunca Fumou_0,0
+363_76,0_Masculino_1,0_0,0_Sim_Privado_Rural_225,6_29,0_Nunca Fumou_0,0
+364_57,0_Masculino_0,0_1,0_Sim_autonomo_Urbano_92,82_27,8_Ex-Fumante_0,0
+365_61,0_Feminino_0,0_0,0_Sim_Privado_Urbano_115,42_16,7_Fumante_0,0
+366_19,0_Feminino_0,0_0,0_Não_Privado_Urbano_79,25_23,6_Desconhecido_0,0
+367_17,0_Feminino_0,0_0,0_Não_Privado_Urbano_81,51_19,5_Ex-Fumante_0,0
+368_62,0_Feminino_0,0_0,0_Sim_autonomo_Rural_213,92_44,6_Nunca Fumou_0,0
+369_64,0_Masculino_1,0_0,0_Sim_Privado_Urbano_81,68_31,3_Ex-Fumante_0,0
+370_2,0_Masculino_0,0_0,0_Não_Criança_Rural_93,74_18,4_Desconhecido_0,0
+371_78,0_Feminino_1,0_0,0_Não_Privado_Urbano_203,87_45,7_Nunca Fumou_1,0
+372_49,0_Masculino_1,0_0,0_Sim_publico_Urbano_139,43_40,2_Ex-Fumante_0,0
+373_54,0_Masculino_0,0_1,0_Sim_publico_Urbano_90,3_30,8_Fumante_0,0
+374_11,0_Feminino_0,0_0,0_Não_Criança_Rural_87,51_24,4_Desconhecido_0,0
+375_76,0_Feminino_0,0_0,0_Sim_Privado_Urbano_207,28_34,9_Desconhecido_1,0
+376_71,0_Masculino_0,0_1,0_Sim_autonomo_Rural_101,13_35,9_Ex-Fumante_0,0
+377_78,0_Feminino_0,0_0,0_Sim_Privado_Rural_154,75_17,6_Nunca Fumou_0,0
+378_31,0_Masculino_0,0_0,0_Sim_publico_Rural_91,65_24,6_Ex-Fumante_0,0
+379_12,0_Masculino_0,0_0,0_Não_Criança_Rural_213,87_25,3_Nunca Fumou_0,0
+380_67,0_Masculino_0,0_0,0_Sim_Privado_Urbano_238,78_35,7_Ex-Fumante_0,0
+381_76,0_Feminino_0,0_0,0_Não_autonomo_Urbano_77,52_40,9_Ex-Fumante_0,0
+382_45,0_Feminino_0,0_0,0_Sim_Privado_Rural_176,48_24,0_Ex-Fumante_0,0
+383_18,0_Feminino_0,0_0,0_Não_Privado_Urbano_79,89_17,9_Desconhecido_0,0
+384_69,0_Masculino_1,0_1,0_Sim_Privado_Urbano_78,11_34,7_Ex-Fumante_0,0
+385_40,0_Masculino_1,0_0,0_Sim_autonomo_Urbano_93,2_24,8_Fumante_0,0
+386_67,0_Masculino_1,0_1,0_Sim_Privado_Rural_254,63_31,0_Nunca Fumou_0,0
+387_44,0_Masculino_0,0_0,0_Sim_Privado_Urbano_80,73_28,1_Fumante_0,0
+388_38,0_Masculino_0,0_0,0_Sim_Privado_Rural_73,76_37,4_Nunca Fumou_0,0
+389_24,0_Feminino_0,0_0,0_Sim_Privado_Rural_67,99_32,1_Nunca Fumou_0,0
+390_50,0_Masculino_0,0_0,0_Sim_Privado_Rural_104,02_29,5_Nunca Fumou_0,0
+391_57,0_Feminino_0,0_0,0_Sim_Privado_Rural_64,37_32,8_Nunca Fumou_0,0
+392_68,0_Feminino_0,0_0,0_Sim_autonomo_Rural_104,38_40,8_Ex-Fumante_0,0
+393_36,0_Masculino_0,0_0,0_Sim_Privado_Rural_83,79_25,5_Fumante_0,0
+394_26,0_Masculino_0,0_0,0_Não_Privado_Urbano_190,67_20,2_Nunca Fumou_0,0
+395_57,0_Masculino_0,0_0,0_Sim_Privado_Rural_86,67_39,0_Desconhecido_0,0
+396_55,0_Masculino_0,0_0,0_Sim_Privado_Urbano_63,56_29,9_Desconhecido_0,0
+397_71,0_Masculino_1,0_0,0_Sim_Privado_Rural_229,73_30,4_Nunca Fumou_0,0
+398_74,0_Masculino_0,0_0,0_Sim_Privado_Urbano_167,13__Desconhecido_1,0
+399_78,0_Feminino_0,0_0,0_Sim_autonomo_Rural_109,47_30,8_Nunca Fumou_1,0
+400_46,0_Feminino_0,0_0,0_Sim_publico_Urbano_162,24_24,3_Fumante_0,0
+401_62,0_Masculino_0,0_0,0_Sim_Privado_Rural_115,13_30,0_Fumante_0,0
+402_46,0_Feminino_0,0_0,0_Sim_autonomo_Urbano_94,63_24,9_Nunca Fumou_0,0
+403_41,0_Feminino_0,0_0,0_Sim_autonomo_Rural_76,66__Desconhecido_0,0
+404_62,0_Masculino_0,0_0,0_Sim_Privado_Urbano_145,37_33,3_Desconhecido_0,0
+405_55,0_Feminino_0,0_0,0_Sim_Privado_Rural_63,47_27,8_Desconhecido_0,0
+406_72,0_Masculino_0,0_0,0_Sim_Privado_Urbano_81,05_30,3_Desconhecido_0,0
+407_51,0_Feminino_0,0_0,0_Sim_autonomo_Urbano_232,89_34,0_Fumante_0,0
+408_60,0_Masculino_1,0_0,0_Sim_publico_Urbano_213,03_20,2_Fumante_1,0
+409_11,0_Masculino_0,0_0,0_Não_Criança_Rural_105,73_22,6_Nunca Fumou_0,0
+410_19,0_Feminino_0,0_0,0_Não_Privado_Urbano_125,43_32,2_Desconhecido_0,0
+411_28,0_Feminino_0,0_0,0_Sim_Privado_Rural_58,41_21,0_Desconhecido_0,0
+412_33,0_Feminino_0,0_0,0_Sim_Privado_Urbano_242,84_15,7_Fumante_0,0
+413_59,0_Feminino_0,0_0,0_Sim_publico_Rural_111,99_35,5_Ex-Fumante_0,0
+414_58,0_Feminino_0,0_0,0_Sim_Privado_Urbano_76,99_29,0_Nunca Fumou_0,0
+415_79,0_Feminino_0,0_1,0_Sim_Privado_Urbano_226,98_29,8_Nunca Fumou_1,0
+416_71,0_Feminino_0,0_1,0_Sim_Privado_Urbano_170,95_35,2_Nunca Fumou_0,0
+417_8,0_Masculino_0,0_0,0_Não_Criança_Rural_133,63_18,8_Desconhecido_0,0
+418_77,0_Feminino_0,0_1,0_Sim_Privado_Rural_231,56_36,9_Nunca Fumou_1,0
+419_77,0_Masculino_0,0_0,0_Sim_Privado_Rural_98,84_27,3_Desconhecido_0,0
+420_51,0_Masculino_0,0_0,0_Sim_Privado_Rural_111,13_32,7_Ex-Fumante_0,0
+421_35,0_Feminino_0,0_0,0_Sim_Privado_Rural_119,4_22,9_Nunca Fumou_0,0
+422_23,0_Feminino_0,0_0,0_Não_Privado_Urbano_79,39_27,6_Nunca Fumou_0,0
+423_36,0_Feminino_0,0_0,0_Não_Privado_Urbano_228,5_34,5_Nunca Fumou_0,0
+424_36,0_Feminino_0,0_0,0_Sim_Privado_Rural_103,76_27,1_Nunca Fumou_0,0
+425_51,0_Feminino_0,0_0,0_Não_Privado_Rural_66,67_29,5_Nunca Fumou_0,0
+426_57,0_Feminino_0,0_0,0_Sim_Privado_Rural_135,63_36,2_Ex-Fumante_0,0
+427_70,0_Feminino_0,0_0,0_Sim_autonomo_Rural_76,34_24,4_Ex-Fumante_1,0
+428_44,0_Masculino_0,0_0,0_Sim_Privado_Rural_101,46_29,4_Desconhecido_0,0
+429_78,0_Masculino_1,0_1,0_Sim_autonomo_Rural_106,41_27,3_Nunca Fumou_0,0
+430_80,0_Masculino_0,0_0,0_Sim_autonomo_Rural_196,08_31,0_Ex-Fumante_0,0
+431_46,0_Feminino_0,0_0,0_Sim_publico_Rural_83,88_27,1_Nunca Fumou_0,0
+432_24,0_Feminino_0,0_0,0_Não_Privado_Rural_120,77_16,9_Nunca Fumou_0,0
+433_35,0_Feminino_0,0_0,0_Sim_publico_Urbano_82,39_33,2_Nunca Fumou_0,0
+434_73,0_Feminino_1,0_0,0_Sim_Privado_Rural_190,14_36,5_Nunca Fumou_1,0
+435_5,0_Masculino_0,0_0,0_Não_Criança_Rural_74,79_19,4_Desconhecido_0,0
+436_21,0_Feminino_0,0_0,0_Não_Privado_Rural_93_25,7_Nunca Fumou_0,0
+437_24,0_Feminino_0,0_0,0_Não_Privado_Urbano_73,49_23,5_Nunca Fumou_0,0
+438_17,0_Feminino_0,0_0,0_Não_Nunca trabalhou_Rural_88,57_31,1_Nunca Fumou_0,0
+439_25,0_Masculino_0,0_0,0_Sim_Privado_Rural_66,51_29,2_Desconhecido_0,0
+440_53,0_Feminino_0,0_0,0_Sim_Privado_Urbano_73,6_27,0_Nunca Fumou_0,0
+441_75,0_Feminino_0,0_0,0_Sim_Privado_Urbano_86,4_42,6_Nunca Fumou_0,0
+442_46,0_Masculino_0,0_0,0_Sim_Privado_Urbano_137,77_29,3_Nunca Fumou_0,0
+443_47,0_Masculino_0,0_0,0_Sim_Privado_Rural_110,38_30,1_Desconhecido_0,0
+444_12,0_Masculino_0,0_0,0_Não_Criança_Rural_115,47_22,6_Desconhecido_0,0
+445_62,0_Masculino_0,0_0,0_Sim_Privado_Urbano_124,26_33,4_Nunca Fumou_0,0
+446_50,0_Feminino_0,0_0,0_Sim_publico_Rural_120,05_27,4_Desconhecido_0,0
+447_27,0_Feminino_0,0_0,0_Não_Privado_Urbano_93,55_41,6_Nunca Fumou_0,0
+448_7,0_Feminino_0,0_0,0_Não_Criança_Rural_85,15_15,1_Desconhecido_0,0
+449_37,0_Feminino_0,0_0,0_Não_Privado_Rural_112,02_29,1_Desconhecido_0,0
+450_12,0_Feminino_0,0_0,0_Não_Criança_Urbano_138,06_23,1_Desconhecido_0,0
+451_24,0_Feminino_0,0_0,0_Sim_Privado_Urbano_85,55_63,3_Nunca Fumou_0,0
+452_62,0_Feminino_0,0_1,0_Sim_publico_Urbano_124,37_28,3_Nunca Fumou_0,0
+453_71,0_Feminino_0,0_0,0_Sim_Privado_Urbano_134,65_32,4_Desconhecido_0,0
+454_62,0_Feminino_0,0_0,0_Sim_publico_Rural_73,44_23,4_Desconhecido_0,0
+455_17,0_Feminino_0,0_0,0_Não_Privado_Urbano_87,72_25,9_Fumante_0,0
+456_78,0_Feminino_0,0_0,0_Sim_Privado_Urbano_67,29_24,6_Nunca Fumou_1,0
+457_2,0_Feminino_0,0_0,0_Não_Criança_Urbano_94,92_20,4_Desconhecido_0,0
+458_20,0_Feminino_0,0_0,0_Sim_Privado_Urbano_74,02_22,3_Nunca Fumou_0,0
+459_8,0_Feminino_0,0_0,0_Não_Criança_Urbano_72,81_18,2_Desconhecido_0,0
+460_51,0_Masculino_1,0_0,0_Sim_Privado_Urbano_112,16_42,5_Ex-Fumante_1,0
+461_26,0_Feminino_0,0_0,0_Sim_Privado_Rural_84,9_26,2_Nunca Fumou_0,0
+462_19,0_Masculino_0,0_0,0_Não_Privado_Rural_56,33_29,4_Desconhecido_0,0
+463_7,0_Masculino_0,0_0,0_Não_Criança_Urbano_77,12_18,6_Desconhecido_0,0
+464_14,0_Feminino_0,0_0,0_Não_Criança_Rural_57,93_30,9_Desconhecido_1,0
+465_28,0_Feminino_0,0_0,0_Sim_Privado_Rural_56,47_22,7_Nunca Fumou_0,0
+466_50,0_Feminino_0,0_0,0_Sim_Privado_Rural_114,05_32,5_Nunca Fumou_0,0
+467_61,0_Feminino_0,0_0,0_Sim_Privado_Urbano_129,31_41,2_Desconhecido_0,0
+468_55,0_Masculino_1,0_0,0_Sim_autonomo_Rural_82,81_44,3_Nunca Fumou_0,0
+469_67,0_Feminino_0,0_0,0_Sim_Privado_Rural_102,89_26,4_Nunca Fumou_0,0
+470_43,0_Masculino_0,0_0,0_Sim_Privado_Rural_77,86_28,9_Nunca Fumou_0,0
+471_15,0_Feminino_0,0_0,0_Não_Privado_Rural_82,19_40,5_Nunca Fumou_0,0
+472_55,0_Masculino_0,0_0,0_Sim_autonomo_Urbano_69,97_25,8_Ex-Fumante_0,0
+473_38,0_Feminino_0,0_0,0_Não_publico_Urbano_160,76_30,2_Fumante_0,0
+474_50,0_Feminino_0,0_0,0_Sim_autonomo_Rural_95,25_24,3_Nunca Fumou_0,0
+475_4,0_Feminino_0,0_0,0_Não_Criança_Rural_109,81_17,9_Desconhecido_0,0
+476_36,0_Feminino_0,0_0,0_Sim_Privado_Rural_71,32_43,9_Fumante_0,0
+477_22,0_Feminino_0,0_0,0_Não_Privado_Urbano_139,48_28,6_Ex-Fumante_0,0
+478_24,0_Masculino_0,0_0,0_Não_Privado_Rural_200,14_37,7_Fumante_0,0
+479_51,0_Feminino_1,0_0,0_Sim_Privado_Urbano_173,96_31,2_Ex-Fumante_0,0
+480_57,0_Feminino_0,0_0,0_Sim_Privado_Rural_102,28_25,5_Nunca Fumou_0,0
+481_2,0_Masculino_0,0_0,0_Não_Criança_Rural_76,12_16,8_Desconhecido_0,0
+482_81,0_Masculino_0,0_0,0_Sim_Privado_Rural_135,32_35,8_Desconhecido_0,0
+483_42,0_Masculino_0,0_0,0_Sim_publico_Rural_67,97_23,8_Desconhecido_0,0
+484_13,0_Masculino_0,0_0,0_Não_Criança_Rural_108,33_17,4_Nunca Fumou_0,0
+485_23,0_Feminino_0,0_0,0_Não_Privado_Urbano_124,5_33,4_Desconhecido_0,0
+486_47,0_Masculino_0,0_0,0_Sim_Privado_Rural_93,55_31,4_Nunca Fumou_0,0
+487_73,0_Feminino_1,0_0,0_Sim_Privado_Rural_217,84__Nunca Fumou_0,0
+488_73,0_Feminino_0,0_0,0_Sim_autonomo_Rural_79,69__Ex-Fumante_0,0
+489_52,0_Feminino_0,0_0,0_Sim_autonomo_Rural_205_30,1_Nunca Fumou_0,0
+490_40,0_Feminino_0,0_0,0_Não_publico_Rural_70,56_32,3_Nunca Fumou_0,0
+491_50,0_Feminino_1,0_0,0_Sim_publico_Urbano_59,89_25,5_Nunca Fumou_0,0
+492_57,0_Feminino_0,0_0,0_Sim_Privado_Rural_84,18_35,5_Nunca Fumou_0,0
+493_28,0_Feminino_0,0_0,0_Sim_Privado_Rural_71,97_27,2_Nunca Fumou_0,0
+494_52,0_Feminino_0,0_0,0_Sim_Privado_Urbano_62,54_35,0_Fumante_0,0
+495_64,0_Masculino_0,0_0,0_Sim_Privado_Rural_84,27_24,6_Desconhecido_0,0
+496_60,0_Masculino_0,0_0,0_Sim_Privado_Urbano_80,74_27,7_Desconhecido_0,0
+497_51,0_Feminino_0,0_0,0_Sim_autonomo_Rural_89,84_29,9_Desconhecido_0,0
+498_81,0_Masculino_0,0_0,0_Não_Privado_Urbano_168,68_23,4_Ex-Fumante_0,0
+499_39,0_Masculino_1,0_0,0_Sim_Privado_Rural_197,36_27,4_Desconhecido_0,0
+500_78,0_Feminino_1,0_0,0_Não_Privado_Urbano_130,54_20,1_Nunca Fumou_1,0
+501_27,0_Feminino_0,0_0,0_Não_Privado_Urbano_111,48_28,9_Nunca Fumou_0,0
+502_35,0_Feminino_0,0_0,0_Sim_Privado_Urbano_80,76_28,8_Fumante_0,0
+503_73,0_Masculino_1,0_0,0_Não_publico_Urbano_71,29_37,7_Nunca Fumou_0,0
+504_57,0_Feminino_1,0_0,0_Sim_Privado_Urbano_98,07_50,9_Ex-Fumante_0,0
+505_16,0_Feminino_0,0_0,0_Não_Privado_Urbano_89,45__Desconhecido_0,0
+506_20,0_Feminino_0,0_0,0_Não_Privado_Rural_96,69_27,4_Fumante_0,0
+507_78,0_Masculino_0,0_0,0_Sim_Privado_Urbano_56,18_27,1_Nunca Fumou_0,0
+508_7,0_Feminino_0,0_0,0_Não_Criança_Rural_157,01_17,0_Desconhecido_0,0
+509_23,0_Feminino_0,0_0,0_Não_publico_Urbano_84,46_28,4_Ex-Fumante_0,0
+510_43,0_Feminino_0,0_0,0_Sim_autonomo_Urbano_98,09_17,3_Nunca Fumou_0,0
+511_77,0_Feminino_0,0_0,0_Sim_Privado_Urbano_99,78_38,0_Nunca Fumou_0,0
+512_34,0_Feminino_0,0_0,0_Não_Privado_Rural_156,57_28,4_Desconhecido_0,0
+513_73,0_Masculino_0,0_1,0_Sim_Privado_Rural_72,42_27,6_Nunca Fumou_0,0
+514_76,0_Feminino_0,0_0,0_Sim_publico_Urbano_204,05_23,5_Nunca Fumou_0,0
+515_23,0_Masculino_0,0_0,0_Não_Privado_Urbano_62_24,8_Ex-Fumante_0,0
+516_49,0_Masculino_0,0_0,0_Não_Privado_Rural_104,86_31,9_Fumante_1,0
+517_40,0_Masculino_0,0_0,0_Sim_Privado_Rural_75,4_28,7_Desconhecido_0,0
+518_27,0_Masculino_0,0_0,0_Sim_Privado_Urbano_114,32_28,1_Desconhecido_0,0
+519_45,0_Feminino_0,0_0,0_Sim_Privado_Urbano_108,03_37,3_Nunca Fumou_0,0
+520_69,0_Masculino_1,0_0,0_Não_Privado_Rural_182,99_36,5_Nunca Fumou_1,0
+521_80,0_Masculino_0,0_0,0_Sim_Privado_Rural_94,96_22,1_Ex-Fumante_0,0
+522_54,0_Feminino_0,0_0,0_Sim_Privado_Rural_94,11_28,6_Ex-Fumante_0,0
+523_62,0_Masculino_0,0_0,0_Sim_Privado_Rural_121,27_29,7_Fumante_0,0
+524_23,0_Masculino_0,0_0,0_Não_Privado_Urbano_87,87_23,4_Nunca Fumou_0,0
+525_78,0_Masculino_1,0_0,0_Sim_autonomo_Urbano_93,13__Ex-Fumante_1,0
+526_76,0_Feminino_0,0_0,0_Sim_Privado_Urbano_183,34_39,5_Ex-Fumante_0,0
+527_72,0_Masculino_0,0_1,0_Sim_Privado_Urbano_99,76_27,1_Ex-Fumante_0,0
+528_34,0_Masculino_0,0_0,0_Sim_Privado_Urbano_149,62_39,4_Ex-Fumante_0,0
+529_22,0_Feminino_0,0_0,0_Não_Privado_Urbano_87,4_34,8_Nunca Fumou_0,0
+530_77,0_Feminino_0,0_0,0_Sim_Privado_Rural_93,48_25,2_Ex-Fumante_0,0
+531_17,0_Feminino_0,0_0,0_Não_Privado_Urbano_127,42_22,4_Desconhecido_0,0
+532_47,0_Masculino_0,0_0,0_Sim_Privado_Rural_57,76_33,2_Fumante_0,0
+533_36,0_Masculino_0,0_0,0_Sim_Privado_Urbano_92,23_32,8_Nunca Fumou_0,0
+534_81,0_Feminino_0,0_0,0_Sim_autonomo_Rural_58,01_27,8_Nunca Fumou_0,0
+535_74,0_Masculino_1,0_0,0_Sim_autonomo_Urbano_112,54_27,7_Ex-Fumante_0,0
+536_26,0_Feminino_0,0_0,0_Não_Privado_Rural_90,54_37,1_Desconhecido_0,0
+537_66,0_Feminino_0,0_0,0_Sim_publico_Rural_85,52_30,0_Nunca Fumou_0,0
+538_37,0_Feminino_0,0_0,0_Não_Privado_Urbano_118,41_25,1_Nunca Fumou_0,0
+539_50,0_Feminino_1,0_0,0_Sim_Privado_Urbano_213,43_36,7_Fumante_0,0
+540_50,0_Masculino_0,0_0,0_Sim_Privado_Rural_59,48_26,6_Desconhecido_0,0
+541_54,0_Feminino_0,0_0,0_Sim_Privado_Rural_70,19_39,1_Fumante_0,0
+542_38,0_Masculino_1,0_0,0_Sim_Privado_Rural_56,9_92,0_Nunca Fumou_0,0
+543_37,0_Masculino_0,0_0,0_Sim_Privado_Urbano_120,07_33,9_Fumante_0,0
+544_19,0_Feminino_0,0_0,0_Não_Privado_Rural_56,85_21,1_Nunca Fumou_0,0
+545_8,0_Feminino_0,0_0,0_Não_Criança_Rural_67,84_24,0_Desconhecido_0,0
+546_80,0_Masculino_1,0_0,0_Sim_autonomo_Urbano_213,33_31,1_Ex-Fumante_0,0
+547_65,0_Feminino_0,0_0,0_Sim_Privado_Urbano_88,82_28,2_Ex-Fumante_0,0
+548_65,0_Feminino_0,0_0,0_Sim_publico_Urbano_82,72_29,8_Fumante_0,0
+549_79,0_Masculino_0,0_0,0_Sim_autonomo_Urbano_242,62_25,5_Nunca Fumou_0,0
+550_3,0_Masculino_0,0_0,0_Não_Criança_Rural_110,2_21,8_Desconhecido_0,0
+551_46,0_Masculino_0,0_0,0_Sim_autonomo_Rural_88,19_29,3_Ex-Fumante_0,0
+552_6,0_Feminino_0,0_0,0_Não_Criança_Rural_108,23_18,6_Desconhecido_0,0
+553_82,0_Masculino_0,0_1,0_Sim_publico_Rural_103,68_25,0_Nunca Fumou_1,0
+554_25,0_Feminino_0,0_0,0_Sim_Privado_Urbano_104,66_23,9_Nunca Fumou_0,0
+555_28,0_Masculino_0,0_0,0_Sim_autonomo_Urbano_73,98_29,9_Nunca Fumou_0,0
+556_73,0_Masculino_0,0_1,0_Sim_publico_Rural_219,73_28,6_Nunca Fumou_1,0
+557_61,0_Masculino_0,0_0,0_Sim_Privado_Rural_81,25_43,4_Fumante_0,0
+558_32,0_Feminino_0,0_0,0_Sim_Privado_Rural_147,04_35,7_Desconhecido_0,0
+559_72,0_Feminino_1,0_0,0_Sim_Privado_Urbano_221,79_30,0_Nunca Fumou_1,0
+560_68,0_Masculino_1,0_0,0_Sim_publico_Urbano_222,29_30,1_Nunca Fumou_0,0
+561_78,0_Masculino_0,0_0,0_Sim_autonomo_Rural_93,85_22,7_Ex-Fumante_0,0
+562_58,0_Masculino_0,0_0,0_Sim_Privado_Urbano_199,42_29,0_Nunca Fumou_0,0
+563_6,0_Masculino_0,0_0,0_Não_Criança_Rural_94,88_17,2_Desconhecido_0,0
+564_79,0_Feminino_0,0_0,0_Sim_publico_Urbano_74,22_29,7_Desconhecido_0,0
+565_37,0_Feminino_0,0_0,0_Sim_autonomo_Rural_77,44_21,4_Ex-Fumante_0,0
+566_52,0_Feminino_0,0_0,0_Sim_Privado_Urbano_81,32_27,6_Ex-Fumante_0,0
+567_34,0_Masculino_0,0_0,0_Sim_Privado_Rural_86,51__Ex-Fumante_0,0
+568_70,0_Masculino_1,0_0,0_Sim_Privado_Rural_242,52_45,5_Ex-Fumante_1,0
+569_5,0_Masculino_0,0_0,0_Não_Criança_Rural_71,43_19,3_Desconhecido_0,0
+570_31,0_Masculino_0,0_0,0_Não_publico_Rural_80,57_28,2_Ex-Fumante_0,0
+571_29,0_Feminino_0,0_0,0_Não_Privado_Urbano_81,43__Ex-Fumante_0,0
+572_3,0_Masculino_0,0_0,0_Não_Criança_Urbano_81,88_18,0_Desconhecido_0,0
+573_43,0_Feminino_0,0_0,0_Sim_Privado_Rural_91,9_32,7_Ex-Fumante_0,0
+574_41,0_Feminino_0,0_0,0_Não_Privado_Urbano_86,03_26,4_Nunca Fumou_0,0
+575_33,0_Feminino_0,0_0,0_Sim_publico_Urbano_75,67_44,7_Nunca Fumou_0,0
+576_21,0_Feminino_0,0_0,0_Não_Privado_Urbano_129,16_34,4_Desconhecido_0,0
+577_13,0_Masculino_0,0_0,0_Não_Criança_Rural_55,39_23,2_Desconhecido_0,0
+578_34,0_Feminino_0,0_0,0_Sim_Privado_Urbano_91,02_25,8_Nunca Fumou_0,0
+579_10,0_Masculino_0,0_0,0_Não_Criança_Rural_58,03_35,2_Desconhecido_0,0
+580_59,0_Masculino_0,0_0,0_Sim_publico_Urbano_216_36,7_Fumante_0,0
+581_39,0_Feminino_0,0_0,0_Sim_autonomo_Rural_89,86_24,4_Nunca Fumou_0,0
+582_75,0_Masculino_0,0_0,0_Sim_publico_Urbano_223,14_27,8_Nunca Fumou_0,0
+583_68,0_Feminino_0,0_0,0_Sim_Privado_Rural_95,36_21,5_Fumante_0,0
+584_8,0_Masculino_0,0_0,0_Não_Criança_Rural_108,06_14,6_Desconhecido_0,0
+585_34,0_Feminino_0,0_0,0_Sim_autonomo_Rural_96,26_27,6_Desconhecido_0,0
+586_61,0_Masculino_0,0_0,0_Sim_Privado_Urbano_68,17_43,8_Ex-Fumante_0,0
+587_69,0_Feminino_0,0_0,0_Sim_autonomo_Urbano_80,85_29,3_Ex-Fumante_0,0
+588_13,0_Feminino_0,0_0,0_Não_Criança_Urbano_99,13_22,8_Desconhecido_0,0
+589_70,0_Feminino_0,0_0,0_Sim_Privado_Rural_68,34_22,8_Ex-Fumante_0,0
+590_2,0_Masculino_0,0_0,0_Não_Criança_Rural_65,67_16,6_Desconhecido_0,0
+591_48,0_Masculino_0,0_0,0_Sim_Privado_Rural_99,96_25,2_Nunca Fumou_0,0
+592_55,0_Feminino_0,0_0,0_Sim_Privado_Urbano_71,02_21,2_Nunca Fumou_0,0
+593_19,0_Masculino_0,0_0,0_Não_autonomo_Rural_82,07_29,0_Nunca Fumou_0,0
+594_15,0_Masculino_0,0_0,0_Não_Nunca trabalhou_Rural_79,59_28,4_Desconhecido_0,0
+595_28,0_Feminino_0,0_0,0_Sim_Privado_Rural_105,9_28,6_Fumante_0,0
+596_81,0_Feminino_0,0_0,0_Sim_autonomo_Rural_114,88_18,3_Ex-Fumante_0,0
+597_19,0_Feminino_0,0_0,0_Não_autonomo_Urbano_84,06_24,7_Nunca Fumou_0,0
+598_63,0_Feminino_0,0_0,0_Sim_publico_Rural_55,57_26,8_Ex-Fumante_0,0
+599_51,0_Feminino_0,0_0,0_Sim_Privado_Rural_216,92_31,2_Desconhecido_0,0
+600_78,0_Feminino_0,0_1,0_Sim_Privado_Urbano_107,18_28,2_Nunca Fumou_0,0
+601_81,0_Masculino_0,0_0,0_Sim_autonomo_Rural_91,54_31,4_Nunca Fumou_1,0
+602_42,0_Feminino_0,0_0,0_Não_autonomo_Rural_73,41_56,0_Fumante_0,0
+603_39,0_Feminino_0,0_0,0_Sim_Privado_Rural_89,32_31,0_Ex-Fumante_0,0
+604_25,0_Masculino_0,0_0,0_Sim_publico_Urbano_166,38_23,1_Nunca Fumou_0,0
+605_60,0_Masculino_0,0_0,0_Sim_autonomo_Urbano_227,23_40,0_Ex-Fumante_0,0
+606_53,0_Masculino_0,0_1,0_Sim_publico_Urbano_77,3_33,4_Nunca Fumou_0,0
+607_56,0_Feminino_0,0_0,0_Sim_publico_Urbano_112,62_24,8_Nunca Fumou_0,0
+608_20,0_Feminino_0,0_0,0_Não_Privado_Urbano_66,55_26,9_Fumante_0,0
+609_76,0_Feminino_0,0_0,0_Sim_Privado_Urbano_196,61_23,0_Nunca Fumou_0,0
+610_43,0_Masculino_0,0_0,0_Sim_autonomo_Urbano_143,43_45,9_Desconhecido_1,0
+611_54,0_Feminino_0,0_0,0_Sim_Privado_Rural_151,33_30,9_Ex-Fumante_0,0
+612_73,0_Feminino_0,0_0,0_Não_autonomo_Rural_69,35__Nunca Fumou_0,0
+613_31,0_Feminino_0,0_0,0_Não_Privado_Urbano_65,47_28,1_Nunca Fumou_0,0
+614_16,0_Masculino_0,0_0,0_Não_Nunca trabalhou_Urbano_59,99_28,2_Nunca Fumou_0,0
+615_17,0_Masculino_0,0_0,0_Não_Privado_Urbano_85,07_21,1_Nunca Fumou_0,0
+616_43,0_Feminino_0,0_0,0_Sim_Privado_Rural_58,63_28,4_Fumante_0,0
+617_47,0_Feminino_0,0_0,0_Sim_Privado_Urbano_122,43_23,9_Nunca Fumou_0,0
+618_37,0_Masculino_0,0_0,0_Sim_autonomo_Urbano_160_31,9_Ex-Fumante_0,0
+619_3,0_Masculino_0,0_0,0_Não_Criança_Urbano_93,21_27,3_Desconhecido_0,0
+620_32,0_Feminino_0,0_0,0_Sim_Privado_Urbano_84,63_40,1_Desconhecido_0,0
+621_75,0_Feminino_1,0_0,0_Sim_autonomo_Rural_219,82_29,5_Ex-Fumante_0,0
+622_81,0_Feminino_1,0_1,0_Sim_Privado_Rural_59,28_28,1_Nunca Fumou_0,0
+623_41,0_Masculino_0,0_0,0_Sim_publico_Urbano_84,1_29,3_Nunca Fumou_0,0
+624_60,0_Feminino_0,0_0,0_Sim_Privado_Urbano_57,89_30,9_Ex-Fumante_0,0
+625_56,0_Masculino_0,0_0,0_Sim_Privado_Urbano_82,64_31,0_Nunca Fumou_0,0
+626_10,0_Masculino_0,0_0,0_Não_Criança_Rural_99,87__Ex-Fumante_0,0
+627_52,0_Feminino_0,0_0,0_Sim_Privado_Urbano_107,29_28,1_Nunca Fumou_0,0
+628_31,0_Masculino_0,0_0,0_Sim_publico_Urbano_65,7_30,4_Ex-Fumante_0,0
+629_79,0_Feminino_0,0_0,0_Sim_autonomo_Urbano_228,7_26,6_Nunca Fumou_1,0
+630_57,0_Feminino_0,0_0,0_Sim_publico_Urbano_110,52_28,5_Desconhecido_1,0
+631_16,0_Feminino_0,0_0,0_Não_Privado_Urbano_87,98_22,4_Nunca Fumou_0,0
+632_26,0_Masculino_0,0_0,0_Sim_Privado_Rural_120,31_22,3_Fumante_0,0
+633_66,0_Masculino_0,0_1,0_Sim_Privado_Rural_239,21_33,7_Ex-Fumante_0,0
+634_39,0_Feminino_0,0_0,0_Sim_Privado_Rural_103,12_29,9_Ex-Fumante_0,0
+635_76,0_Masculino_1,0_0,0_Sim_autonomo_Rural_69,61_35,3_Nunca Fumou_0,0
+636_57,0_Feminino_0,0_0,0_Sim_publico_Rural_176,78_50,4_Nunca Fumou_0,0
+637_76,0_Feminino_0,0_0,0_Sim_publico_Rural_62,57__Ex-Fumante_1,0
+638_35,0_Feminino_0,0_0,0_Sim_autonomo_Urbano_70,87_22,1_Ex-Fumante_0,0
+639_82,0_Feminino_0,0_0,0_Sim_Privado_Urbano_82,63_17,9_Fumante_0,0
+640_50,0_Feminino_1,0_0,0_Sim_autonomo_Rural_167,41_30,9_Nunca Fumou_1,0
+641_29,0_Masculino_0,0_0,0_Não_Privado_Urbano_59,26_35,8_Fumante_0,0
+642_50,0_Feminino_0,0_0,0_Sim_Privado_Urbano_65,98_21,7_Nunca Fumou_0,0
+643_63,0_Feminino_0,0_0,0_Sim_Privado_Rural_85,81_35,6_Nunca Fumou_0,0
+644_80,0_Feminino_1,0_0,0_Sim_Privado_Urbano_210,96_31,8_Nunca Fumou_0,0
+645_28,0_Feminino_0,0_0,0_Sim_Privado_Rural_131,8_30,3_Nunca Fumou_0,0
+646_3,0_Feminino_0,0_0,0_Não_Criança_Urbano_82,91_19,9_Desconhecido_0,0
+647_80,0_Masculino_1,0_1,0_Sim_Privado_Urbano_175,29_31,5_Ex-Fumante_1,0
+648_76,0_Masculino_1,0_0,0_Sim_Privado_Rural_80,15_34,9_Ex-Fumante_0,0
+649_24,0_Masculino_0,0_0,0_Não_Privado_Urbano_59,28_43,2_Nunca Fumou_0,0
+650_41,0_Feminino_0,0_0,0_Não_Privado_Urbano_76,08_25,1_Nunca Fumou_0,0
+651_37,0_Feminino_0,0_0,0_Sim_Privado_Urbano_217,11_29,1_Nunca Fumou_0,0
+652_53,0_Masculino_0,0_0,0_Sim_autonomo_Urbano_109,09_26,3_Fumante_0,0
+653_67,0_Masculino_0,0_0,0_Sim_Privado_Rural_97,04_26,9_Fumante_0,0
+654_53,0_Feminino_1,0_1,0_Sim_Privado_Urbano_196,25_24,9_Fumante_0,0
+655_10,0_Feminino_0,0_0,0_Não_Criança_Urbano_97,24_20,2_Desconhecido_0,0
+656_59,0_Feminino_0,0_0,0_Sim_Privado_Urbano_240,71_43,9_Ex-Fumante_0,0
+657_80,0_Feminino_0,0_0,0_Sim_Privado_Urbano_73,54_24,0_Desconhecido_1,0
+658_55,0_Masculino_0,0_0,0_Não_autonomo_Rural_79,02_38,0_Desconhecido_0,0
+659_57,0_Feminino_0,0_0,0_Sim_autonomo_Urbano_106,84_29,6_Nunca Fumou_0,0
+660_63,0_Masculino_0,0_0,0_Sim_Privado_Urbano_222,66_37,0_Ex-Fumante_0,0
+661_78,0_Feminino_1,0_0,0_Sim_autonomo_Urbano_191,33_24,5_Nunca Fumou_0,0
+662_49,0_Feminino_0,0_0,0_Sim_autonomo_Urbano_59,76_29,7_Desconhecido_0,0
+663_69,0_Masculino_0,0_0,0_Sim_Privado_Urbano_65,08_27,3_Ex-Fumante_0,0
+664_8,0_Masculino_0,0_0,0_Não_Criança_Rural_86,84_18,3_Desconhecido_0,0
+665_31,0_Feminino_0,0_0,0_Sim_publico_Rural_103,55_20,5_Ex-Fumante_0,0
+666_56,0_Feminino_1,0_0,0_Sim_Privado_Rural_205,26_40,3_Nunca Fumou_0,0
+667_63,0_Masculino_0,0_0,0_Sim_Privado_Urbano_74,39_31,0_Ex-Fumante_0,0
+668_5,0_Feminino_0,0_0,0_Não_Criança_Rural_86,11_19,0_Desconhecido_0,0
+669_62,0_Masculino_0,0_0,0_Sim_Privado_Urbano_72,5_22,5_Ex-Fumante_0,0
+670_38,0_Feminino_0,0_0,0_Não_Privado_Urbano_218,6_47,9_Ex-Fumante_0,0
+671_45,0_Feminino_0,0_0,0_Sim_autonomo_Rural_149,15_33,5_Desconhecido_0,0
+672_41,0_Feminino_0,0_0,0_Não_Privado_Rural_100,75_27,2_Nunca Fumou_0,0
+673_19,0_Feminino_0,0_0,0_Não_Privado_Urbano_100,6_20,5_Nunca Fumou_0,0
+674_38,0_Feminino_0,0_0,0_Sim_Privado_Rural_91,09_22,2_Nunca Fumou_0,0
+675_76,0_Masculino_1,0_0,0_Sim_autonomo_Rural_194,37_27,0_Ex-Fumante_1,0
+676_39,0_Feminino_0,0_0,0_Não_Privado_Rural_79_30,0_Nunca Fumou_0,0
+677_55,0_Feminino_1,0_0,0_Sim_publico_Urbano_186,4_28,0_Nunca Fumou_0,0
+678_34,0_Feminino_0,0_0,0_Sim_publico_Rural_70,18_24,9_Desconhecido_0,0
+679_51,0_Feminino_0,0_0,0_Não_Privado_Rural_219,96_42,3_Nunca Fumou_0,0
+680_53,0_Feminino_0,0_0,0_Sim_Privado_Rural_90,65_22,1_Ex-Fumante_0,0
+681_15,0_Masculino_0,0_0,0_Não_publico_Rural_142,82_27,6_Nunca Fumou_0,0
+682_65,0_Feminino_0,0_0,0_Sim_Privado_Urbano_82,26_19,8_Ex-Fumante_0,0
+683_52,0_Masculino_0,0_0,0_Sim_autonomo_Urbano_78,4_64,8_Nunca Fumou_0,0
+684_47,0_Masculino_0,0_0,0_Sim_autonomo_Rural_90,44_28,7_Nunca Fumou_0,0
+685_30,0_Feminino_0,0_0,0_Não_Privado_Rural_73,69_17,3_Nunca Fumou_0,0
+686_12,0_Masculino_0,0_0,0_Não_Criança_Urbano_83,95_23,6_Desconhecido_0,0
+687_13,0_Feminino_0,0_0,0_Não_Criança_Rural_69,01_23,4_Desconhecido_0,0
+688_64,0_Feminino_0,0_0,0_Sim_Privado_Urbano_65,63_33,5_Fumante_0,0
+689_38,0_Feminino_0,0_0,0_Sim_Privado_Urbano_77,2_23,4_Desconhecido_0,0
+690_58,0_Feminino_0,0_0,0_Sim_Privado_Urbano_90,26_36,1_Nunca Fumou_0,0
+691_36,0_Feminino_0,0_0,0_Sim_Privado_Urbano_99,72_22,3_Fumante_0,0
+692_11,0_Masculino_0,0_0,0_Não_Criança_Rural_79,03_16,5_Desconhecido_0,0
+693_36,0_Masculino_0,0_0,0_Sim_Privado_Rural_129,73_27,8_Nunca Fumou_0,0
+694_17,0_Masculino_0,0_0,0_Não_publico_Urbano_68,91_23,0_Desconhecido_0,0
+695_53,0_Feminino_0,0_0,0_Sim_Privado_Rural_94,14_27,7_Fumante_0,0
+696_62,0_Masculino_0,0_0,0_Sim_autonomo_Rural_136,18_32,2_Desconhecido_0,0
+697_49,0_Masculino_0,0_0,0_Sim_Privado_Rural_96,35_35,9_Nunca Fumou_0,0
+698_81,0_Feminino_0,0_0,0_Sim_autonomo_Urbano_63,65_23,0_Desconhecido_0,0
+699_11,0_Masculino_0,0_0,0_Não_Criança_Rural_68,62_18,2_Desconhecido_0,0
+700_57,0_Feminino_0,0_0,0_Sim_Privado_Rural_189,44_35,8_Nunca Fumou_0,0
+701_75,0_Feminino_0,0_0,0_Sim_publico_Rural_56,23_25,3_Nunca Fumou_0,0
+702_49,0_Masculino_0,0_0,0_Sim_autonomo_Urbano_70,73_27,3_Ex-Fumante_0,0
+703_48,0_Feminino_0,0_0,0_Sim_publico_Rural_111,64_27,9_Desconhecido_0,0
+704_5,0_Feminino_0,0_0,0_Não_Criança_Rural_75,1_20,7_Desconhecido_0,0
+705_68,0_Masculino_0,0_0,0_Sim_autonomo_Urbano_77,82_27,5_Fumante_1,0
+706_15,0_Masculino_0,0_0,0_Não_Privado_Urbano_75,77_38,0_Nunca Fumou_0,0
+707_50,0_Feminino_0,0_0,0_Sim_Privado_Rural_68,41_23,9_Fumante_0,0
+708_29,0_Feminino_0,0_0,0_Não_autonomo_Rural_62,47_34,4_Ex-Fumante_0,0
+709_51,0_Feminino_0,0_0,0_Sim_Privado_Urbano_105,36_43,7_Desconhecido_0,0
+710_81,0_Masculino_1,0_1,0_Sim_publico_Rural_217,94_24,1_Ex-Fumante_0,0
+711_77,0_Feminino_0,0_0,0_Não_Privado_Urbano_81,32__Desconhecido_1,0
+712_53,0_Masculino_0,0_0,0_Sim_publico_Rural_78,73_23,3_Nunca Fumou_0,0
+713_78,0_Masculino_0,0_0,0_Sim_autonomo_Urbano_116,1_27,1_Nunca Fumou_1,0
+714_11,0_Masculino_0,0_0,0_Não_Criança_Rural_121,66_16,7_Desconhecido_0,0
+715_25,0_Feminino_0,0_0,0_Não_Privado_Urbano_68,07_18,6_Fumante_0,0
+716_45,0_Masculino_1,0_0,0_Sim_Privado_Rural_136,2_23,8_Desconhecido_0,0
+717_51,0_Feminino_0,0_0,0_Sim_Privado_Urbano_95,98_40,1_Fumante_0,0
+718_58,0_Masculino_0,0_0,0_Sim_publico_Urbano_194,04_27,8_Nunca Fumou_0,0
+719_59,0_Feminino_0,0_0,0_Sim_Privado_Rural_234,82_51,8_Nunca Fumou_0,0
+720_22,0_Masculino_0,0_0,0_Não_Privado_Rural_86,53_20,8_Nunca Fumou_0,0
+721_8,0_Feminino_0,0_0,0_Não_Criança_Rural_87,92_14,1_Desconhecido_0,0
+722_38,0_Feminino_0,0_0,0_Sim_publico_Rural_78,94_23,5_Desconhecido_0,0
+723_51,0_Feminino_0,0_0,0_Sim_autonomo_Urbano_143,15_44,7_Ex-Fumante_0,0
+724_31,0_Feminino_0,0_0,0_Sim_Privado_Rural_96,03_24,1_Desconhecido_0,0
+725_75,0_Feminino_0,0_0,0_Sim_autonomo_Rural_70,22_24,8_Ex-Fumante_0,0
+726_47,0_Feminino_0,0_0,0_Sim_Privado_Urbano_84,04_24,7_Nunca Fumou_0,0
+727_17,0_Feminino_0,0_0,0_Não_Privado_Rural_173,43_25,6_Fumante_0,0
+728_76,0_Masculino_1,0_0,0_Sim_Privado_Rural_267,6_30,5_Nunca Fumou_0,0
+729_31,0_Masculino_0,0_0,0_Sim_Privado_Urbano_88,78_35,8_Fumante_0,0
+730_39,0_Masculino_0,0_0,0_Sim_Privado_Rural_121,32_26,8_Nunca Fumou_0,0
+731_57,0_Masculino_0,0_0,0_Sim_Privado_Rural_70,16_25,8_Ex-Fumante_0,0
+732_32,0_Masculino_0,0_0,0_Sim_Privado_Rural_70,96_33,1_Desconhecido_0,0
+733_61,0_Masculino_0,0_0,0_Sim_autonomo_Rural_84,43_32,4_Fumante_0,0
+734_45,0_Masculino_0,0_0,0_Sim_Privado_Urbano_76,72_29,1_Desconhecido_0,0
+735_52,0_Feminino_0,0_0,0_Sim_Privado_Urbano_82,24_54,7_Ex-Fumante_0,0
+736_80,0_Feminino_0,0_0,0_Sim_Privado_Urbano_79,57_26,9_Nunca Fumou_0,0
+737_28,0_Feminino_0,0_0,0_Não_Privado_Urbano_62,44_37,2_Desconhecido_0,0
+738_33,0_Masculino_0,0_0,0_Não_autonomo_Rural_91,53_38,8_Ex-Fumante_0,0
+739_31,0_Masculino_1,0_0,0_Sim_publico_Urbano_92,11__Nunca Fumou_0,0
+740_7,0_Masculino_0,0_0,0_Não_Criança_Urbano_152,81_17,7_Desconhecido_0,0
+741_16,0_Feminino_0,0_0,0_Não_Privado_Rural_81,92_22,7_Desconhecido_0,0
+742_58,0_Masculino_0,0_0,0_Não_Privado_Rural_92,62_32,0_Desconhecido_1,0
+743_7,0_Masculino_0,0_0,0_Não_Criança_Urbano_76,63_17,3_Desconhecido_0,0
+744_58,0_Feminino_0,0_0,0_Sim_Privado_Urbano_107,26_38,6_Ex-Fumante_1,0
+745_81,0_Masculino_0,0_0,0_Sim_Privado_Rural_92,96_22,2_Nunca Fumou_0,0
+746_23,0_Masculino_0,0_0,0_Não_Privado_Urbano_82,53_20,7_Fumante_0,0
+747_32,0_Masculino_0,0_0,0_Não_Privado_Urbano_79,54_28,1_Desconhecido_0,0
+748_80,0_Masculino_0,0_1,0_Sim_Privado_Urbano_120,09_30,7_Nunca Fumou_0,0
+749_70,0_Feminino_0,0_0,0_Sim_Privado_Urbano_77,77_33,8_Fumante_0,0
+750_80,0_Feminino_1,0_0,0_Sim_Privado_Urbano_125,89_28,9_Fumante_0,0
+751_60,0_Masculino_1,0_0,0_Não_Privado_Urbano_63,95_32,2_Nunca Fumou_0,0
+752_65,0_Feminino_0,0_0,0_Sim_autonomo_Urbano_248,24_27,0_Fumante_0,0
+753_16,0_Masculino_0,0_0,0_Não_Privado_Rural_90,39_26,5_Nunca Fumou_0,0
+754_55,0_Masculino_0,0_0,0_Sim_publico_Rural_65,12_30,0_Nunca Fumou_0,0
+755_37,0_Masculino_0,0_0,0_Sim_Privado_Urbano_79,56_25,2_Nunca Fumou_0,0
+756_20,0_Masculino_0,0_0,0_Não_Privado_Urbano_96,2_21,5_Nunca Fumou_0,0
+757_79,0_Masculino_0,0_0,0_Sim_Privado_Rural_114,77__Ex-Fumante_1,0
+758_38,0_Feminino_0,0_0,0_Sim_publico_Urbano_70,92_41,6_Nunca Fumou_0,0
+759_20,0_Feminino_0,0_0,0_Não_Privado_Urbano_89,03__Fumante_0,0
+760_72,0_Feminino_0,0_0,0_Sim_Privado_Urbano_219,91__Desconhecido_1,0
+761_18,0_Feminino_0,0_0,0_Não_Privado_Urbano_82,85_46,9_Desconhecido_0,0
+762_79,0_Feminino_1,0_0,0_Sim_Privado_Rural_99,47_28,4_Nunca Fumou_0,0
+763_31,0_Masculino_0,0_0,0_Não_Privado_Urbano_72,6_31,6_Nunca Fumou_0,0
+764_53,0_Feminino_0,0_0,0_Não_Privado_Rural_235,45__Ex-Fumante_0,0
+765_11,0_Feminino_0,0_0,0_Não_Criança_Urbano_107,18_27,6_Desconhecido_0,0
+766_48,0_Masculino_0,0_0,0_Sim_publico_Rural_76,58_27,4_Nunca Fumou_0,0
+767_63,0_Feminino_1,0_0,0_Sim_Privado_Rural_57,15_38,8_Nunca Fumou_0,0
+768_8,0_Masculino_0,0_0,0_Não_Criança_Urbano_104,51_20,6_Desconhecido_0,0
+769_63,0_Masculino_1,0_0,0_Sim_Privado_Urbano_232,78_31,8_Ex-Fumante_0,0
+770_70,0_Feminino_1,0_0,0_Sim_autonomo_Urbano_89,13_34,2_Ex-Fumante_1,0
+771_36,0_Feminino_0,0_0,0_Sim_autonomo_Urbano_202,06_24,4_Nunca Fumou_0,0
+772_8,0_Masculino_0,0_0,0_Não_Criança_Urbano_84,68_14,5_Desconhecido_0,0
+773_52,0_Feminino_1,0_0,0_Sim_autonomo_Urbano_114,25_24,3_Ex-Fumante_0,0
+774_75,0_Feminino_0,0_0,0_Sim_publico_Rural_132,46_26,2_Desconhecido_0,0
+775_68,0_Masculino_0,0_0,0_Sim_Privado_Urbano_92,21_27,3_Desconhecido_0,0
+776_30,0_Feminino_0,0_0,0_Sim_Privado_Urbano_123,65_44,0_Fumante_0,0
+777_61,0_Masculino_0,0_0,0_Sim_Privado_Urbano_99,16_26,6_Fumante_0,0
+778_71,0_Feminino_1,0_1,0_Sim_Privado_Rural_221,24_24,2_Desconhecido_0,0
+779_14,0_Feminino_0,0_0,0_Não_Criança_Rural_78,09_26,4_Desconhecido_0,0
+780_58,0_Feminino_0,0_0,0_Não_Privado_Urbano_82,01_34,7_Ex-Fumante_0,0
+781_63,0_Masculino_1,0_0,0_Sim_Privado_Rural_60,17_23,5_Fumante_0,0
+782_48,0_Feminino_1,0_0,0_Não_Privado_Rural_118,14__Ex-Fumante_0,0
+783_23,0_Feminino_0,0_0,0_Não_Privado_Rural_100,06_28,6_Nunca Fumou_0,0
+784_82,0_Masculino_0,0_0,0_Sim_autonomo_Urbano_214,51_24,0_Ex-Fumante_0,0
+785_47,0_Masculino_0,0_0,0_Sim_Privado_Urbano_106,69_31,2_Desconhecido_0,0
+786_79,0_Feminino_0,0_0,0_Sim_Privado_Urbano_97,73_21,5_Fumante_1,0
+787_17,0_Masculino_0,0_0,0_Não_Privado_Rural_95,27_17,3_Desconhecido_0,0
+788_51,0_Masculino_0,0_0,0_Sim_Privado_Rural_217,71__Ex-Fumante_0,0
+789_63,0_Feminino_0,0_1,0_Sim_Privado_Rural_86,21_39,1_Nunca Fumou_0,0
+790_60,0_Feminino_1,0_0,0_Sim_Privado_Urbano_109__Desconhecido_0,0
+791_4,0_Feminino_0,0_0,0_Não_Criança_Urbano_94,27_14,0_Desconhecido_0,0
+792_8,0_Masculino_0,0_0,0_Não_Criança_Rural_96,43_25,7_Desconhecido_0,0
+793_37,0_Feminino_0,0_0,0_Sim_Privado_Urbano_203,81_46,6_Nunca Fumou_0,0
+794_65,0_Masculino_0,0_0,0_Sim_Privado_Urbano_88,57_29,0_Fumante_0,0
+795_32,0_Feminino_0,0_0,0_Não_publico_Urbano_68,98_23,4_Ex-Fumante_0,0
+796_5,0_Masculino_0,0_0,0_Não_Criança_Urbano_92,23_16,7_Desconhecido_0,0
+797_76,0_Feminino_0,0_0,0_Sim_autonomo_Urbano_106,41__Ex-Fumante_1,0
+798_49,0_Masculino_0,0_0,0_Sim_Privado_Urbano_79,51_37,8_Nunca Fumou_0,0
+799_50,0_Masculino_0,0_0,0_Sim_publico_Urbano_88,24_32,6_Desconhecido_0,0
+800_38,0_Feminino_0,0_0,0_Sim_publico_Urbano_58,29_25,5_Ex-Fumante_0,0
+801_23,0_Feminino_0,0_0,0_Não_Privado_Urbano_126,67_28,7_Fumante_0,0
+802_5,0_Masculino_0,0_0,0_Não_Criança_Urbano_60,09_19,6_Desconhecido_0,0
+803_82,0_Feminino_0,0_0,0_Sim_Privado_Rural_59,32_33,2_Nunca Fumou_1,0
+804_15,0_Masculino_0,0_0,0_Não_Criança_Rural_94,24_30,2_Desconhecido_0,0
+805_33,0_Feminino_0,0_0,0_Sim_Privado_Rural_88,17_38,6_Ex-Fumante_0,0
+806_20,0_Feminino_0,0_0,0_Não_Privado_Urbano_115,69_29,2_Nunca Fumou_0,0
+807_32,0_Feminino_0,0_0,0_Não_Privado_Urbano_84,1_33,3_Desconhecido_0,0
+808_49,0_Masculino_0,0_0,0_Não_Privado_Urbano_95,79_24,0_Desconhecido_0,0
+809_43,0_Feminino_1,0_0,0_Não_autonomo_Rural_217,3_27,5_Nunca Fumou_0,0
+810_38,0_Masculino_0,0_0,0_Sim_publico_Rural_98,92_25,5_Nunca Fumou_0,0
+811_40,0_Feminino_0,0_0,0_Sim_publico_Rural_110,6_33,3_Ex-Fumante_0,0
+812_43,0_Feminino_0,0_0,0_Sim_Privado_Rural_82,57_29,1_Nunca Fumou_0,0
+813_78,0_Feminino_0,0_0,0_Sim_Privado_Urbano_106,74_33,0_Ex-Fumante_1,0
+814_52,0_Masculino_0,0_0,0_Sim_Privado_Rural_191,66_26,1_Fumante_0,0
+815_82,0_Feminino_1,0_0,0_Sim_Privado_Urbano_222,52__Ex-Fumante_0,0
+816_78,0_Masculino_0,0_0,0_Sim_autonomo_Urbano_218,46_26,8_Desconhecido_1,0
+817_55,0_Feminino_0,0_0,0_Sim_Privado_Urbano_65,22_19,8_Nunca Fumou_0,0
+818_64,0_Feminino_1,0_0,0_Sim_autonomo_Urbano_93,78_24,4_Nunca Fumou_0,0
+819_61,0_Feminino_0,0_0,0_Sim_Privado_Urbano_74,82_30,6_Nunca Fumou_0,0
+820_80,0_Feminino_0,0_1,0_Sim_Privado_Rural_100,8_29,4_Nunca Fumou_0,0
+821_32,0_Masculino_0,0_0,0_Não_Privado_Rural_100,65_26,2_Ex-Fumante_0,0
+822_79,0_Masculino_0,0_0,0_Sim_autonomo_Rural_112,64_28,5_Ex-Fumante_0,0
+823_42,0_Feminino_0,0_0,0_Sim_autonomo_Urbano_124,34_34,7_Ex-Fumante_0,0
+824_63,0_Feminino_0,0_0,0_Sim_Privado_Rural_85_26,4_Fumante_0,0
+825_55,0_Masculino_0,0_0,0_Sim_Privado_Rural_56,42_31,8_Nunca Fumou_0,0
+826_7,0_Feminino_0,0_0,0_Não_Criança_Urbano_79,58_15,5_Desconhecido_0,0
+827_52,0_Feminino_0,0_1,0_Sim_Privado_Urbano_85,66_39,4_Nunca Fumou_0,0
+828_33,0_Feminino_0,0_0,0_Sim_Privado_Rural_71,16_46,5_Fumante_0,0
+829_73,0_Feminino_1,0_0,0_Sim_Privado_Urbano_110,38_26,3_Nunca Fumou_0,0
+830_60,0_Masculino_0,0_0,0_Não_Privado_Urbano_84,14_32,3_Nunca Fumou_0,0
+831_33,0_Masculino_0,0_0,0_Não_Privado_Rural_88,5_32,6_Ex-Fumante_0,0
+832_63,0_Feminino_0,0_0,0_Sim_Privado_Urbano_85,04_29,7_Ex-Fumante_0,0
+833_39,0_Feminino_0,0_0,0_Sim_Privado_Urbano_101,52_41,8_Nunca Fumou_0,0
+834_77,0_Feminino_0,0_0,0_Sim_Privado_Urbano_250,8_32,9_Nunca Fumou_0,0
+835_47,0_Feminino_0,0_0,0_Sim_autonomo_Rural_157,77_28,4_Nunca Fumou_0,0
+836_43,0_Masculino_0,0_0,0_Sim_Privado_Urbano_100,16_59,7_Nunca Fumou_0,0
+837_42,0_Feminino_0,0_0,0_Sim_Privado_Rural_94,38_34,0_Nunca Fumou_0,0
+838_78,0_Feminino_1,0_0,0_Sim_Privado_Urbano_182,2_30,5_Ex-Fumante_0,0
+839_75,0_Masculino_0,0_0,0_Sim_autonomo_Rural_82,35_25,3_Nunca Fumou_0,0
+840_72,0_Feminino_0,0_0,0_Sim_publico_Urbano_104,05_33,5_Nunca Fumou_0,0
+841_30,0_Masculino_0,0_0,0_Não_Privado_Rural_61,87_23,9_Desconhecido_0,0
+842_58,0_Masculino_0,0_0,0_Sim_autonomo_Rural_99,83_36,3_Fumante_0,0
+843_24,0_Feminino_0,0_0,0_Sim_Privado_Rural_84,08_24,5_Desconhecido_0,0
+844_3,0_Masculino_0,0_0,0_Não_Criança_Rural_95,12_18,0_Desconhecido_0,0
+845_47,0_Masculino_0,0_0,0_Sim_autonomo_Urbano_135,19_36,0_Fumante_0,0
+846_78,0_Feminino_1,0_0,0_Sim_Privado_Rural_91,63_33,5_Fumante_0,0
+847_12,0_Feminino_0,0_0,0_Não_Criança_Rural_85,97_35,7_Desconhecido_0,0
+848_10,0_Feminino_0,0_0,0_Não_Criança_Urbano_93,64_23,4_Desconhecido_0,0
+849_81,0_Masculino_0,0_0,0_Sim_Privado_Urbano_72,81_26,3_Nunca Fumou_1,0
+850_37,0_Feminino_0,0_0,0_Sim_Privado_Urbano_103,66_36,1_Fumante_0,0
+851_22,0_Feminino_0,0_0,0_Sim_Privado_Urbano_86,24_31,2_Nunca Fumou_0,0
+852_40,0_Feminino_0,0_0,0_Sim_Privado_Urbano_89,61_41,2_Ex-Fumante_0,0
+853_32,0_Feminino_0,0_0,0_Sim_Privado_Rural_71,8_26,5_Nunca Fumou_0,0
+854_78,0_Feminino_0,0_0,0_Sim_Privado_Urbano_58,57_24,2_Desconhecido_1,0
+855_49,0_Feminino_0,0_0,0_Sim_publico_Urbano_68,68_28,8_Nunca Fumou_0,0
+856_13,0_Feminino_0,0_0,0_Não_Criança_Urbano_75,78_23,6_Desconhecido_0,0
+857_63,0_Masculino_0,0_0,0_Sim_Privado_Urbano_208,65_30,7_Nunca Fumou_1,0
+858_63,0_Feminino_0,0_0,0_Sim_Privado_Rural_153,6_28,0_Ex-Fumante_0,0
+859_60,0_Masculino_1,0_0,0_Sim_Privado_Rural_213,37_36,0_Nunca Fumou_0,0
+860_55,0_Feminino_0,0_0,0_Sim_Privado_Urbano_102,1_22,5_Ex-Fumante_0,0
+861_79,0_Feminino_0,0_0,0_Não_autonomo_Urbano_74,36_39,2_Desconhecido_0,0
+862_40,0_Masculino_0,0_0,0_Sim_Privado_Rural_201,96_30,1_Desconhecido_0,0
+863_59,0_Masculino_0,0_0,0_Sim_Privado_Urbano_117,92_29,4_Fumante_0,0
+864_48,0_Feminino_0,0_0,0_Sim_Privado_Urbano_116,2_27,6_Ex-Fumante_0,0
+865_41,0_Masculino_0,0_0,0_Sim_Privado_Urbano_104,34_30,3_Desconhecido_0,0
+866_71,0_Masculino_1,0_0,0_Sim_Privado_Rural_186,95_33,3_Nunca Fumou_0,0
+867_67,0_Masculino_0,0_0,0_Sim_publico_Rural_244,28_29,4_Ex-Fumante_0,0
+868_21,0_Masculino_0,0_0,0_Não_Privado_Urbano_138,51_24,3_Nunca Fumou_0,0
+869_81,0_Masculino_0,0_0,0_Sim_autonomo_Urbano_61,1_27,6_Fumante_0,0
+870_14,0_Masculino_0,0_0,0_Não_Criança_Rural_149,42_20,6_Desconhecido_0,0
+871_51,0_Feminino_0,0_0,0_Sim_publico_Rural_103,43_27,3_Ex-Fumante_1,0
+872_32,0_Feminino_0,0_0,0_Sim_Privado_Urbano_85,18_22,2_Fumante_0,0
+873_3,0_Masculino_0,0_0,0_Não_Criança_Rural_86,38_22,8_Desconhecido_0,0
+874_34,0_Feminino_0,0_0,0_Sim_Privado_Rural_94,44_34,2_Desconhecido_0,0
+875_32,0_Feminino_0,0_0,0_Sim_Privado_Rural_61,83_31,3_Nunca Fumou_0,0
+876_24,0_Masculino_1,0_0,0_Sim_Privado_Rural_80,63_28,2_Fumante_0,0
+877_57,0_Masculino_0,0_0,0_Sim_Privado_Rural_82,08_24,7_Desconhecido_0,0
+878_48,0_Masculino_0,0_0,0_Sim_Privado_Urbano_68,13_38,0_Ex-Fumante_0,0
